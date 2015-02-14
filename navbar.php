@@ -10,7 +10,7 @@ echo'
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="index.php">cs410green</a>
+			<a class="navbar-brand" href="index.phtml">cs410green</a>
 		</div>
 
 		<!-- Collect the nav links, forms, and other content for toggling -->
@@ -24,9 +24,9 @@ echo'
 					</a>
 					</li>
 				       	-->
-				<li><a href="bios.php">Bios</a></li>
-				<li><a href="problem.php">Problem Description</a></li>
-				<li><a href="references.php">References</a></li>
+				<li><a href="bios.phtml">Bios</a></li>
+				<li><a href="problem.phtml">Problem Description</a></li>
+				<li><a href="references.phtml">References</a></li>
 
 				<!--
 				<li class="dropdown">
