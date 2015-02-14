@@ -5,3 +5,11 @@ body {
   padding: 40px 15px;
   text-align: center;
 }
+.row-same-height {
+    display: table;
+    width: 100%;
+}
+.col-xs-height {
+    display: table-cell;
+    float: none;
+}
