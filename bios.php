@@ -40,6 +40,10 @@
 								</div>
 							</div>
 						</div>
+
+						<div class="clearfix visible-sm-block"></div>
+						<div class="clearfix visible-md-block"></div>
+						
 						<div class="col-sm-6 col-lg-4">
 							<div class="thumbnail">
 								<img src="images/cOdonnell.jpg" data-holder-rendered="true" style="height: 200px; width: 200px; display: block;">
@@ -52,9 +56,9 @@
 								</div>
 							</div>
 						</div>
-
-						<div class="clearfix visible-sm-block"></div>
-
+						
+						<div class="clearfix visible-lg-block"></div>
+						
 						<div class="col-sm-6 col-lg-4">
 							<div class="thumbnail">
 								<img src="images/jPerezFiller.jpg" data-holder-rendered="true" style="height: 170px; width: 200px; display: block;">
@@ -68,7 +72,8 @@
 							</div>
 						</div>
 						
-						<div class="clearfix visible-lg-block"></div>
+						<div class="clearfix visible-sm-block"></div>
+						<div class="clearfix visible-md-block"></div>
 						
 						<div class="col-sm-6 col-lg-4">
 							<div class="thumbnail">
@@ -83,8 +88,6 @@
 							</div>
 						</div>
 
-						<div class="clearfix visible-sm-block"></div>
-
 						<div class="col-sm-6 col-lg-4">
 							<div class="thumbnail">
 								<img src="images/eWichern.png" data-holder-rendered="true" style="height: 200px; width: 200px; display: block;">
@@ -97,6 +100,11 @@
 								</div>
 							</div>
 						</div>
+
+						<div class="clearfix visible-sm-block"></div>
+						<div class="clearfix visible-md-block"></div>
+						<div class="clearfix visible-lg-block"></div>
+						
 						<div class="col-sm-6 col-lg-4">
 							<div class="thumbnail">
 								<img src="images/dWiggins.jpg" data-holder-rendered="true" style="height: 200px; width: 200px; display: block;">
