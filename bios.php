@@ -17,6 +17,19 @@
 
 						<div class="col-sm-6 col-lg-4">
 							<div class="thumbnail">
+								<img src="images/jPatel.jpg" data-holder-rendered="true" style="height: 200px; width: 200px; display: block;">
+								<div class="caption">
+									<h3>Mentor - Jugal Patel</h3>
+									<p>Jugal Patel is a junior at Old Dominion University, double majoring in political science and philosophy. He is currently the Digital Editor for ODU's student newspaper, the Mace & Crown. Jugal uses data analytics to improve the decision-making of the editorial board and presentation of Mace content. He is sometimes mysterious, often interesting and always classy.</p>
+									<!--
+									<p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+									-->									
+								</div>
+							</div>
+						</div>
+						
+						<div class="col-sm-6 col-lg-4">
+							<div class="thumbnail">
 								<img src="images/eKennedy.jpg" data-holder-rendered="true" style="height: 200px; width: 120px; display: block;">
 								<div class="caption">
 									<h3>Edward Kennedy</h3>
