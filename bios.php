@@ -27,7 +27,7 @@
 								</div>
 							</div>
 						</div>
-						
+
 						<div class="col-sm-6 col-lg-4">
 							<div class="thumbnail">
 								<img src="images/eKennedy.jpg" data-holder-rendered="true" style="height: 200px; width: 120px; display: block;">
@@ -43,7 +43,7 @@
 
 						<div class="clearfix visible-sm-block"></div>
 						<div class="clearfix visible-md-block"></div>
-						
+
 						<div class="col-sm-6 col-lg-4">
 							<div class="thumbnail">
 								<img src="images/cOdonnell.jpg" data-holder-rendered="true" style="height: 200px; width: 200px; display: block;">
@@ -56,9 +56,9 @@
 								</div>
 							</div>
 						</div>
-						
+
 						<div class="clearfix visible-lg-block"></div>
-						
+
 						<div class="col-sm-6 col-lg-4">
 							<div class="thumbnail">
 								<img src="images/jPerezFiller.jpg" data-holder-rendered="true" style="height: 170px; width: 200px; display: block;">
@@ -71,10 +71,10 @@
 								</div>
 							</div>
 						</div>
-						
+
 						<div class="clearfix visible-sm-block"></div>
 						<div class="clearfix visible-md-block"></div>
-						
+
 						<div class="col-sm-6 col-lg-4">
 							<div class="thumbnail">
 								<img src="images/kShahFiller.jpg" data-holder-rendered="true" style="height: 160px; width: 200px; display: block;">
@@ -104,7 +104,7 @@
 						<div class="clearfix visible-sm-block"></div>
 						<div class="clearfix visible-md-block"></div>
 						<div class="clearfix visible-lg-block"></div>
-						
+
 						<div class="col-sm-6 col-lg-4">
 							<div class="thumbnail">
 								<img src="images/dWiggins.jpg" data-holder-rendered="true" style="height: 200px; width: 200px; display: block;">
@@ -117,10 +117,18 @@
 								</div>
 							</div>
 						</div>
+						
+						<div class="clearfix visible-sm-block"></div>
+						<div class="clearfix visible-md-block"></div>
+						<div class="clearfix visible-lg-block"></div>
+						
 						<!-- </div> /row-same-height -->
 					</div><!-- /row -->
 
 				</div><!-- /member-bios-->
+
+				<?php include 'foot.php'; ?>
+
 			</div>
 		</div><!-- /.container -->
 

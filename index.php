@@ -11,7 +11,8 @@
 
 			<div class="starter-template">
 				<h1>CS 410 Green</h1>
-				<p class="lead">Insert some stuff here.<br> Some more text here.</p>
+				<br>
+				<?php include 'foot.php'; ?>
 			</div>
 
 		</div><!-- /.container -->

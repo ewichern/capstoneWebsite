@@ -21,6 +21,9 @@
 				<img src="./images/flow_chart.png" class="img-responsive"></br>
 					The last step in the above process flow diagram is where intervention is needed. As it stands right now, the Mace and Crown doesn't have the resources to publish their climate change stories in a way that grabs people's attention. These stories need to immerse the readers in the subject matter, and that would require improving upon the way it's presented.
 				</p>
+
+				<?php include 'foot.php'; ?>
+
 			</div>
 
 		</div><!-- /.container -->
