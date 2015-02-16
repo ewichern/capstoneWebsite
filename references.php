@@ -11,7 +11,7 @@
 
 			<div class="starter-template">
 				<h1>References</h1>
-				<p class="lead">
+				<p class="text-left">
 					Environmental Protection Agency - Climate Change: Basic Information</br>
 					<a href="http://www.epa.gov/climatechange/basics/">http://www.epa.gov/climatechange/basics</a></br></br>
 					2014 National Climate Assessment</br>
