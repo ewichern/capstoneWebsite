@@ -61,10 +61,10 @@
 
 						<div class="col-sm-6 col-lg-4">
 							<div class="thumbnail">
-								<img src="images/jPerezFiller.jpg" data-holder-rendered="true" style="height: 170px; width: 200px; display: block;">
+								<img src="images/jPerez.jpg" data-holder-rendered="true" style="height: 200px; width: 200px; display: block;">
 								<div class="caption">
 									<h3>Johnathan Perez</h3>
-									<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+									<p>My name is Johnathan Perez. I was born in Portsmouth but I've lived on both the east and west coast. I was raised mostly in Virginia Beach but I now live in Chesapeake. I earned an Associate of Science degree at TCC before enrolling at ODU because I wanted to be a Physics major. Computer Science seemed like a better fit after I transferred because I've always loved computers and I discovered a passion for programming. I currently attend school full time while working part time as a web developer. I enjoy video games, social time with friends, and working out.</p>
 									<!--
 									<p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
 									-->									
