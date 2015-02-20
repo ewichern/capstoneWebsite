@@ -77,7 +77,7 @@
 
 						<div class="col-sm-6 col-lg-4">
 							<div class="thumbnail">
-								<img src="images/kShahFiller.jpg" data-holder-rendered="true" style="height: 160px; width: 200px; display: block;">
+								<img src="images/kShah.jpg" data-holder-rendered="true" style="height: 200px; width: 100px; display: block;">
 								<div class="caption">
 									<h3>Kirtan Shah</h3>
 									<p>Computer Science Major with a minor in Mathematics and Electrical Engineering Technology. Currently I am unemployed but I used to work at a McDonald's fast food restaurant before college. I am originally from India and came to the United Stated 12 years ago.</p>
