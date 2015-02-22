@@ -1,7 +1,7 @@
 # README #
 
-Notes from 2/20 chat: https://docs.google.com/document/d/1wtJmQwYOwHemETrelLXOuFsBHyJ3fevpudh1xE_hOlU/edit
-Shared References collection: https://docs.google.com/document/d/11l6kJ9gZvfx5VQ3qJU8LrYcv5FRLcL5ZQZ_Yt7KRPJ8/edit
+* Notes from 2/20 chat: https://docs.google.com/document/d/1wtJmQwYOwHemETrelLXOuFsBHyJ3fevpudh1xE_hOlU/edit
+* Shared References collection: https://docs.google.com/document/d/11l6kJ9gZvfx5VQ3qJU8LrYcv5FRLcL5ZQZ_Yt7KRPJ8/edit
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
