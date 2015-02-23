@@ -172,9 +172,9 @@
 					</div>
 				</div>
 				<br/>
-				<img src="./images/flow_chart.png" class="img-responsive"/><br/>
+				<img src="./images/process_diagram_1.png" class="img-responsive"/><br/>
 
-				<p class="text-left">The last step in the above process flow diagram is where intervention is needed. As it stands right now, the Mace and Crown doesn't have the resources to publish their climate change stories in a way that grabs people's attention. These stories need to immerse the readers in the subject matter, and that would require improving upon the way it's presented.</p>
+				<p class="text-left">The current process flow diagram needs software to intervene at two separate stages. The first is when content is being aggregated for a story. University newspapers could stand to have better social media integration for the stories uploaded to their websites. This would mean utilizing guest columnists, whitelisted twitter feeds, and reputation based forums for users to engage in discussion. Lastly, software intervention is needed before stories are pushed to university newspaper websites. Due to the lacking technological skillset of undergraduate journalists, content uploaded isn’t captivating enough to preserve the attention of readers. Adjustments to the aesthetic of these stories as well as data visualization to accompany those changes is needed.</p>
 				</del>
 
 				<?php include 'foot.php'; ?>
