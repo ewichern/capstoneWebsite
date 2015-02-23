@@ -21,7 +21,7 @@
 					</div>
 					<!-- <div id="collapseStatement" class="panel-collapse collapse" role="tabpanel" aria-labelledby="statementHeading"> -->
 					<div class="panel-body" align="left">
-						As digital journalism and data visualization grows in in popularity the technological skillset of undergraduate journalists is inadequate for the demands of university news outlets preparing content for publication in a competitive news arena.
+						As digital journalism and data visualization grows in popularity the technological skillset of undergraduate journalists is inadequate for the demands of university news outlets preparing content for publication in a competitive news arena.
 					</div>
 					<!-- </div> -->
 				</div>
