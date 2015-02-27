@@ -125,7 +125,7 @@
                     </div>
                 <div class="panel-body">
                   <style>
-                    th {text-align: center;}
+                    th,tr {text-align: center;}
                   </style>
                     <table class="table">
                         <caption>Short Description</caption>
