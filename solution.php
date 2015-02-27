@@ -118,7 +118,7 @@
 
                 <!-- Competition Matrix -->
                 <div class="panel panel-success">
-                    <div class="panel-heading" id="characteristicsHeading">
+                    <div class="panel-heading">
                         <h3 class="panel-title">
                             Competition Matrix
                         </h3>
