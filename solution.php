@@ -165,7 +165,7 @@
 										<td><i class="fa fa-check"></i></td><!-- MCWordPress -->
 									</tr>
 									<tr>
-										<td>Ability to moderate and filter images, videos and comments from social media</td>
+										<td>Ability to moderate and filter images, <br>videos and comments from social media</td>
 										<td><i class="fa fa-times"></i></td><!-- Drupal -->
 										<td><i class="fa fa-times"></i></td><!-- Pangea -->
 										<td><i class="fa fa-times"></i></td><!-- Django -->
