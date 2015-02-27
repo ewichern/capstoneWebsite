@@ -2,10 +2,10 @@
 <html lang="en">
     <head>
         <title>cs410green Solution Characteristics</title>
-        <?php require 'head.php'; ?>
+		<?php require 'head.php'; ?>
     </head>
     <body>
-        <?php require 'navbar.php'; ?>
+		<?php require 'navbar.php'; ?>
 
         <div class="container">
 
@@ -123,99 +123,101 @@
                             Competition Matrix
                         </h3>
                     </div>
-                <div class="panel-body">
-                  <style>
-                    th {text-align: center;}
-                  </style>
-                    <table class="table">
-                        <caption>Short Description</caption>
-                        <thead>
-                            <tr>
-                                <th>Features</th>
-                                <th>Drupel</th>
-                                <th>Pangea</th>
-                                <th>Django</th>
-                                <th>Joomla</th>
-                                <th>Armstrong</th>
-                                <th>Newscoop</th>
-                                <th>MCWordPress</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td>Is an open source product</td>
-                                <td>&#10004;</td>
-                                <td>&#10008;</td>
-                                <td>&#10004;</td>
-                                <td>&#10004;</td>
-                                <td>&#10004;</td>
-                                <td>&#10004;</td>
-                                <td>&#10004;</td>
-                            </tr>
-                            <tr>
-                                <td>Designed for news organizations</td>
-                                <td>&#10008;</td>
-                                <td>&#10004;</td>
-                                <td>&#10008;</td>
-                                <td>&#10008;</td>
-                                <td>&#10004;</td>
-                                <td>&#10004;</td>
-                                <td>&#10004;</td>
-                            </tr>
-                            <tr>
-                                <td>Third description of feature</td>
-                                <td>&#10008;</td>
-                                <td>&#10008;</td>
-                                <td>&#10008;</td>
-                                <td>&#10008;</td>
-                                <td>&#10008;</td>
-                                <td>&#10008;</td>
-                                <td>&#10008;</td>
-                            </tr>
-                            <tr>
-                                <td>Fourth description of feature</td>
-                                <td>&#10008;</td>
-                                <td>&#10008;</td>
-                                <td>&#10008;</td>
-                                <td>&#10008;</td>
-                                <td>&#10008;</td>
-                                <td>&#10008;</td>
-                                <td>&#10008;</td>
-                            </tr>
-                            <tr>
-                                <td>Fifth description of feature</td>
-                                <td>&#10008;</td>
-                                <td>&#10008;</td>
-                                <td>&#10008;</td>
-                                <td>&#10008;</td>
-                                <td>&#10008;</td>
-                                <td>&#10008;</td>
-                                <td>&#10008;</td>
-                            </tr>
-                            <tr>
-                                <td>Sixth description of feature</td>
-                                <td>&#10008;</td>
-                                <td>&#10008;</td>
-                                <td>&#10008;</td>
-                                <td>&#10008;</td>
-                                <td>&#10008;</td>
-                                <td>&#10008;</td>
-                                <td>&#10008;</td>
-                            </tr>
-                            <tr>
-                                <td>Seventh description of feature</td>
-                                <td>&#10004;</td>
-                                <td>&#10004;</td>
-                                <td>&#10004;</td>
-                                <td>&#10004;</td>
-                                <td>&#10004;</td>
-                                <td>&#10004;</td>
-                                <td>&#10004;</td> 
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
-              </div>
+					<div class="panel-body">
+						<style>
+							th {text-align: center;}
+						</style>
+						<div class="table-responsive">
+							<table class="table table-striped">
+								<caption>Short Description</caption>
+								<thead>
+									<tr>
+										<th>Features</th>
+										<th>Drupal</th>
+										<th>Pangea</th>
+										<th>Django</th>
+										<th>Joomla</th>
+										<th>Armstrong</th>
+										<th>Newscoop</th>
+										<th>MCWordPress</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td>Is an open source product</td>
+										<td><i class="fa fa-check"></i></td>
+										<td><i class="fa fa-times"></i></td>
+										<td><i class="fa fa-check"></i></td>
+										<td><i class="fa fa-check"></i></td>
+										<td><i class="fa fa-check"></i></td>
+										<td><i class="fa fa-check"></i></td>
+										<td><i class="fa fa-check"></i></td>
+									</tr>
+									<tr>
+										<td>Designed for news organizations</td>
+										<td><i class="fa fa-times"></i></td>
+										<td><i class="fa fa-check"></i></td>
+										<td><i class="fa fa-times"></i></td>
+										<td><i class="fa fa-times"></i></td>
+										<td><i class="fa fa-check"></i></td>
+										<td><i class="fa fa-check"></i></td>
+										<td><i class="fa fa-check"></i></td>
+									</tr>
+									<tr>
+										<td>Third description of feature</td>
+										<td><i class="fa fa-times"></i></td>
+										<td><i class="fa fa-times"></i></td>
+										<td><i class="fa fa-times"></i></td>
+										<td><i class="fa fa-times"></i></td>
+										<td><i class="fa fa-times"></i></td>
+										<td><i class="fa fa-times"></i></td>
+										<td><i class="fa fa-times"></i></td>
+									</tr>
+									<tr>
+										<td>Fourth description of feature</td>
+										<td><i class="fa fa-times"></i></td>
+										<td><i class="fa fa-times"></i></td>
+										<td><i class="fa fa-times"></i></td>
+										<td><i class="fa fa-times"></i></td>
+										<td><i class="fa fa-times"></i></td>
+										<td><i class="fa fa-times"></i></td>
+										<td><i class="fa fa-times"></i></td>
+									</tr>
+									<tr>
+										<td>Fifth description of feature</td>
+										<td><i class="fa fa-times"></i></td>
+										<td><i class="fa fa-times"></i></td>
+										<td><i class="fa fa-times"></i></td>
+										<td><i class="fa fa-times"></i></td>
+										<td><i class="fa fa-times"></i></td>
+										<td><i class="fa fa-times"></i></td>
+										<td><i class="fa fa-times"></i></td>
+									</tr>
+									<tr>
+										<td>Sixth description of feature</td>
+										<td><i class="fa fa-times"></i></td>
+										<td><i class="fa fa-times"></i></td>
+										<td><i class="fa fa-times"></i></td>
+										<td><i class="fa fa-times"></i></td>
+										<td><i class="fa fa-times"></i></td>
+										<td><i class="fa fa-times"></i></td>
+										<td><i class="fa fa-times"></i></td>
+									</tr>
+									<tr>
+										<td>Seventh description of feature</td>
+										<td><i class="fa fa-check"></i></td>
+										<td><i class="fa fa-check"></i></td>
+										<td><i class="fa fa-check"></i></td>
+										<td><i class="fa fa-check"></i></td>
+										<td><i class="fa fa-check"></i></td>
+										<td><i class="fa fa-check"></i></td>
+										<td><i class="fa fa-check"></i></td> 
+									</tr>
+								</tbody>
+							</table>
+						</div>
+					</div>
+				</div>
                 <!--
                                                 <div class="panel panel-success">
                                                         <div class="panel-heading">
@@ -230,12 +232,12 @@
                                                         </div>
                                                 </div>
                 -->
-                <?php include 'foot.php'; ?>
+				<?php include 'foot.php'; ?>
 
             </div>
 
         </div><!-- /.container -->
 
-        <?php require 'scripts.php'; ?>
+		<?php require 'scripts.php'; ?>
     </body>
 </html>
