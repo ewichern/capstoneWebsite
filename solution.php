@@ -232,6 +232,7 @@
                 -->
                 <?php include 'foot.php'; ?>
 
+            </div>
 
         </div><!-- /.container -->
 
