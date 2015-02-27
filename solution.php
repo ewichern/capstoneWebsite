@@ -146,73 +146,73 @@
 								<tbody>
 									<tr>
 										<td>Is an open source product</td>
-										<td><i class="fa fa-check"></i></td>
-										<td><i class="fa fa-times"></i></td>
-										<td><i class="fa fa-check"></i></td>
-										<td><i class="fa fa-check"></i></td>
-										<td><i class="fa fa-check"></i></td>
-										<td><i class="fa fa-check"></i></td>
-										<td><i class="fa fa-check"></i></td>
+										<td><i class="fa fa-check"></i></td><!-- Drupal -->
+										<td><i class="fa fa-times"></i></td><!-- Pangea -->
+										<td><i class="fa fa-check"></i></td><!-- Django -->
+										<td><i class="fa fa-check"></i></td><!-- Joomla -->
+										<td><i class="fa fa-check"></i></td><!-- Armstrong -->
+										<td><i class="fa fa-check"></i></td><!-- Newscoop -->
+										<td><i class="fa fa-check"></i></td><!-- MCWordPress -->
 									</tr>
 									<tr>
 										<td>Designed for news organizations</td>
-										<td><i class="fa fa-times"></i></td>
-										<td><i class="fa fa-check"></i></td>
-										<td><i class="fa fa-times"></i></td>
-										<td><i class="fa fa-times"></i></td>
-										<td><i class="fa fa-check"></i></td>
-										<td><i class="fa fa-check"></i></td>
-										<td><i class="fa fa-check"></i></td>
+										<td><i class="fa fa-times"></i></td><!-- Drupal -->
+										<td><i class="fa fa-check"></i></td><!-- Pangea -->
+										<td><i class="fa fa-times"></i></td><!-- Django -->
+										<td><i class="fa fa-times"></i></td><!-- Joomla -->
+										<td><i class="fa fa-check"></i></td><!-- Armstrong -->
+										<td><i class="fa fa-check"></i></td><!-- Newscoop -->
+										<td><i class="fa fa-check"></i></td><!-- MCWordPress -->
 									</tr>
 									<tr>
 										<td>Third description of feature</td>
-										<td><i class="fa fa-times"></i></td>
-										<td><i class="fa fa-times"></i></td>
-										<td><i class="fa fa-times"></i></td>
-										<td><i class="fa fa-times"></i></td>
-										<td><i class="fa fa-times"></i></td>
-										<td><i class="fa fa-times"></i></td>
-										<td><i class="fa fa-times"></i></td>
+										<td><i class="fa fa-times"></i></td><!-- Drupal -->
+										<td><i class="fa fa-times"></i></td><!-- Pangea -->
+										<td><i class="fa fa-times"></i></td><!-- Django -->
+										<td><i class="fa fa-times"></i></td><!-- Joomla -->
+										<td><i class="fa fa-times"></i></td><!-- Armstrong -->
+										<td><i class="fa fa-times"></i></td><!-- Newscoop -->
+										<td><i class="fa fa-times"></i></td><!-- MCWordPress -->
 									</tr>
 									<tr>
 										<td>Fourth description of feature</td>
-										<td><i class="fa fa-times"></i></td>
-										<td><i class="fa fa-times"></i></td>
-										<td><i class="fa fa-times"></i></td>
-										<td><i class="fa fa-times"></i></td>
-										<td><i class="fa fa-times"></i></td>
-										<td><i class="fa fa-times"></i></td>
-										<td><i class="fa fa-times"></i></td>
+										<td><i class="fa fa-times"></i></td><!-- Drupal -->
+										<td><i class="fa fa-times"></i></td><!-- Pangea -->
+										<td><i class="fa fa-times"></i></td><!-- Django -->
+										<td><i class="fa fa-times"></i></td><!-- Joomla -->
+										<td><i class="fa fa-times"></i></td><!-- Armstrong -->
+										<td><i class="fa fa-times"></i></td><!-- Newscoop -->
+										<td><i class="fa fa-times"></i></td><!-- MCWordPress -->
 									</tr>
 									<tr>
 										<td>Fifth description of feature</td>
-										<td><i class="fa fa-times"></i></td>
-										<td><i class="fa fa-times"></i></td>
-										<td><i class="fa fa-times"></i></td>
-										<td><i class="fa fa-times"></i></td>
-										<td><i class="fa fa-times"></i></td>
-										<td><i class="fa fa-times"></i></td>
-										<td><i class="fa fa-times"></i></td>
+										<td><i class="fa fa-times"></i></td><!-- Drupal -->
+										<td><i class="fa fa-times"></i></td><!-- Pangea -->
+										<td><i class="fa fa-times"></i></td><!-- Django -->
+										<td><i class="fa fa-times"></i></td><!-- Joomla -->
+										<td><i class="fa fa-times"></i></td><!-- Armstrong -->
+										<td><i class="fa fa-times"></i></td><!-- Newscoop -->
+										<td><i class="fa fa-times"></i></td><!-- MCWordPress -->
 									</tr>
 									<tr>
 										<td>Sixth description of feature</td>
-										<td><i class="fa fa-times"></i></td>
-										<td><i class="fa fa-times"></i></td>
-										<td><i class="fa fa-times"></i></td>
-										<td><i class="fa fa-times"></i></td>
-										<td><i class="fa fa-times"></i></td>
-										<td><i class="fa fa-times"></i></td>
-										<td><i class="fa fa-times"></i></td>
+										<td><i class="fa fa-times"></i></td><!-- Drupal -->
+										<td><i class="fa fa-times"></i></td><!-- Pangea -->
+										<td><i class="fa fa-times"></i></td><!-- Django -->
+										<td><i class="fa fa-times"></i></td><!-- Joomla -->
+										<td><i class="fa fa-times"></i></td><!-- Armstrong -->
+										<td><i class="fa fa-times"></i></td><!-- Newscoop -->
+										<td><i class="fa fa-times"></i></td><!-- MCWordPress -->
 									</tr>
 									<tr>
 										<td>Seventh description of feature</td>
-										<td><i class="fa fa-check"></i></td>
-										<td><i class="fa fa-check"></i></td>
-										<td><i class="fa fa-check"></i></td>
-										<td><i class="fa fa-check"></i></td>
-										<td><i class="fa fa-check"></i></td>
-										<td><i class="fa fa-check"></i></td>
-										<td><i class="fa fa-check"></i></td>
+										<td><i class="fa fa-check"></i></td><!-- Drupal -->
+										<td><i class="fa fa-check"></i></td><!-- Pangea -->
+										<td><i class="fa fa-check"></i></td><!-- Django -->
+										<td><i class="fa fa-check"></i></td><!-- Joomla -->
+										<td><i class="fa fa-check"></i></td><!-- Armstrong -->
+										<td><i class="fa fa-check"></i></td><!-- Newscoop -->
+										<td><i class="fa fa-check"></i></td><!-- MCWordPress -->
 									</tr>
 								</tbody>
 							</table>
