@@ -114,112 +114,108 @@
 
                         </div>
                     </div>
-
-
-                    <!-- Competition Matrix -->
-                    <div class="panel panel-success">
-                        <div class="panel-heading" id="characteristicsHeading">
-                            <h3 class="panel-title">
-                                Competition Matrix
-                            </h3>
-                        </div>
-                    </div>
-                    <div class="panel-body">
-                      <style>
-                        th {text-align: center;}
-                      </style>
-                        <table class="table">
-                            <caption>Short Description</caption>
-                            <thead>
-                                <tr>
-                                    <th>Features</th>
-                                    <th>Drupel</th>
-                                    <th>Pangea</th>
-                                    <th>Django</th>
-                                    <th>Joomla</th>
-                                    <th>Armstrong</th>
-                                    <th>Newscoop</th>
-                                    <th>MCWordPress</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td>Is an open source product</td>
-                                    <td>&#10004;</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10004;</td>
-                                    <td>&#10004;</td>
-                                    <td>&#10004;</td>
-                                    <td>&#10004;</td>
-                                    <td>&#10004;</td>
-                                </tr>
-                                <tr>
-                                    <td>Second description of feature</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                </tr>
-                                <tr>
-                                    <td>Third description of feature</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                </tr>
-                                <tr>
-                                    <td>Fourth description of feature</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                </tr>
-                                <tr>
-                                    <td>Fifth description of feature</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                </tr>
-                                <tr>
-                                    <td>Sixth description of feature</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                </tr>
-                                <tr>
-                                    <td>Seventh description of feature</td>
-                                    <td>&#10004;</td>
-                                    <td>&#10004;</td>
-                                    <td>&#10004;</td>
-                                    <td>&#10004;</td>
-                                    <td>&#10004;</td>
-                                    <td>&#10004;</td>
-                                    <td>&#10004;</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
-
-
-
                 </div>
+
+                <!-- Competition Matrix -->
+                <div class="panel panel-success">
+                    <div class="panel-heading" id="characteristicsHeading">
+                        <h3 class="panel-title">
+                            Competition Matrix
+                        </h3>
+                    </div>
+                <div class="panel-body">
+                  <style>
+                    th {text-align: center;}
+                  </style>
+                    <table class="table">
+                        <caption>Short Description</caption>
+                        <thead>
+                            <tr>
+                                <th>Features</th>
+                                <th>Drupel</th>
+                                <th>Pangea</th>
+                                <th>Django</th>
+                                <th>Joomla</th>
+                                <th>Armstrong</th>
+                                <th>Newscoop</th>
+                                <th>MCWordPress</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Is an open source product</td>
+                                <td>&#10004;</td>
+                                <td>&#10008;</td>
+                                <td>&#10004;</td>
+                                <td>&#10004;</td>
+                                <td>&#10004;</td>
+                                <td>&#10004;</td>
+                                <td>&#10004;</td>
+                            </tr>
+                            <tr>
+                                <td>Second description of feature</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                            </tr>
+                            <tr>
+                                <td>Third description of feature</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                            </tr>
+                            <tr>
+                                <td>Fourth description of feature</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                            </tr>
+                            <tr>
+                                <td>Fifth description of feature</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                            </tr>
+                            <tr>
+                                <td>Sixth description of feature</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                            </tr>
+                            <tr>
+                                <td>Seventh description of feature</td>
+                                <td>&#10004;</td>
+                                <td>&#10004;</td>
+                                <td>&#10004;</td>
+                                <td>&#10004;</td>
+                                <td>&#10004;</td>
+                                <td>&#10004;</td>
+                                <td>&#10004;</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+              </div>
                 <!--
                                                 <div class="panel panel-success">
                                                         <div class="panel-heading">
