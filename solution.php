@@ -202,13 +202,13 @@
                                 </tr>
                                 <tr>
                                     <td>Seventh description of feature</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
+                                    <td>&#10004;</td>
+                                    <td>&#10004;</td>
+                                    <td>&#10004;</td>
+                                    <td>&#10004;</td>
+                                    <td>&#10004;</td>
+                                    <td>&#10004;</td>
+                                    <td>&#10004;</td>
                                 </tr>
                             </tbody>
                         </table>
