@@ -144,73 +144,73 @@
                         <tbody>
                             <tr>
                                 <td>Is an open source product</td>
-                                <td>&#10004;</td> <!-- Drupel -->
-                                <td>&#10008;</td> <!-- Pangea -->
-                                <td>&#10004;</td> <!-- Django -->
-                                <td>&#10004;</td> <!-- Joomla -->
-                                <td>&#10004;</td> <!-- Armstrong -->
-                                <td>&#10004;</td> <!-- Newscoop -->
-                                <td>&#10004;</td> <!-- MCWordPress -->
+                                <td>&#10004;</td>
+                                <td>&#10008;</td>
+                                <td>&#10004;</td>
+                                <td>&#10004;</td>
+                                <td>&#10004;</td>
+                                <td>&#10004;</td>
+                                <td>&#10004;</td>
                             </tr>
                             <tr>
                                 <td>Designed for news organizations</td>
-                                <td>&#10008;</td> <!-- Drupel -->
-                                <td>&#10004;</td> <!-- Pangea -->
-                                <td>&#10008;</td> <!-- Django -->
-                                <td>&#10008;</td> <!-- Joomla -->
-                                <td>&#10004;</td> <!-- Armstrong -->
-                                <td>&#10004;</td> <!-- Newscoop -->
-                                <td>&#10004;</td> <!-- MCWordPress -->
+                                <td>&#10008;</td>
+                                <td>&#10004;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10004;</td>
+                                <td>&#10004;</td>
+                                <td>&#10004;</td>
                             </tr>
                             <tr>
                                 <td>Third description of feature</td>
-                                <td>&#10008;</td> <!-- Drupel -->
-                                <td>&#10008;</td> <!-- Pangea -->
-                                <td>&#10008;</td> <!-- Django -->
-                                <td>&#10008;</td> <!-- Joomla -->
-                                <td>&#10008;</td> <!-- Armstrong -->
-                                <td>&#10008;</td> <!-- Newscoop -->
-                                <td>&#10008;</td> <!-- MCWordPress -->
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
                             </tr>
                             <tr>
                                 <td>Fourth description of feature</td>
-                                <td>&#10008;</td> <!-- Drupel -->
-                                <td>&#10008;</td> <!-- Pangea -->
-                                <td>&#10008;</td> <!-- Django -->
-                                <td>&#10008;</td> <!-- Joomla -->
-                                <td>&#10008;</td> <!-- Armstrong -->
-                                <td>&#10008;</td> <!-- Newscoop -->
-                                <td>&#10008;</td> <!-- MCWordPress -->
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
                             </tr>
                             <tr>
                                 <td>Fifth description of feature</td>
-                                <td>&#10008;</td> <!-- Drupel -->
-                                <td>&#10008;</td> <!-- Pangea -->
-                                <td>&#10008;</td> <!-- Django -->
-                                <td>&#10008;</td> <!-- Joomla -->
-                                <td>&#10008;</td> <!-- Armstrong -->
-                                <td>&#10008;</td> <!-- Newscoop -->
-                                <td>&#10008;</td> <!-- MCWordPress -->
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
                             </tr>
                             <tr>
                                 <td>Sixth description of feature</td>
-                                <td>&#10008;</td> <!-- Drupel -->
-                                <td>&#10008;</td> <!-- Pangea -->
-                                <td>&#10008;</td> <!-- Django -->
-                                <td>&#10008;</td> <!-- Joomla -->
-                                <td>&#10008;</td> <!-- Armstrong -->
-                                <td>&#10008;</td> <!-- Newscoop -->
-                                <td>&#10008;</td> <!-- MCWordPress -->
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
+                                <td>&#10008;</td>
                             </tr>
                             <tr>
                                 <td>Seventh description of feature</td>
-                                <td>&#10004;</td> <!-- Drupel -->
-                                <td>&#10004;</td> <!-- Pangea -->
-                                <td>&#10004;</td> <!-- Django -->
-                                <td>&#10004;</td> <!-- Joomla -->
-                                <td>&#10004;</td> <!-- Armstrong -->
-                                <td>&#10004;</td> <!-- Newscoop -->
-                                <td>&#10004;</td> <!-- MCWordPress -->
+                                <td>&#10004;</td>
+                                <td>&#10004;</td>
+                                <td>&#10004;</td>
+                                <td>&#10004;</td>
+                                <td>&#10004;</td>
+                                <td>&#10004;</td>
+                                <td>&#10004;</td> 
                             </tr>
                         </tbody>
                     </table>
