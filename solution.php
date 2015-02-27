@@ -153,7 +153,7 @@
                                 <td>&#10004;</td><!-- MCWordPress -->
                             </tr>
                             <tr>
-                                <td>Designed for news jhkhgjkgf</td>
+                                <td>Designed for news organizations</td>
                                 <td>&#10008;</td><!-- Drupel -->
                                 <td>&#10004;</td><!-- Pangea -->
                                 <td>&#10008;</td><!-- Django -->
