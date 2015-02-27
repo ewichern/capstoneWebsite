@@ -141,14 +141,14 @@
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td>First description of feature</td>
+                                    <td>Is an open source product</td>
+                                    <td>&#10004;</td>
                                     <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
-                                    <td>&#10008;</td>
+                                    <td>&#10004;</td>
+                                    <td>&#10004;</td>
+                                    <td>&#10004;</td>
+                                    <td>&#10004;</td>
+                                    <td>&#10004;</td>
                                 </tr>
                                 <tr>
                                     <td>Second description of feature</td>
