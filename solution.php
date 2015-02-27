@@ -114,7 +114,17 @@
 
 						</div>
 					</div>
-
+					
+					
+		<!-- Competition Matrix -->
+                <div class="panel panel-success">
+                    <div class="panel-heading" id="characteristicsHeading">
+                        <h3 class="panel-title">
+                            Competition Matrix
+                        </h3>
+                    </div>
+                </div>
+                <div class="panel-body">Insert Table</div>
 
 
 
