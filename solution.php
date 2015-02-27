@@ -142,63 +142,63 @@
                             <tbody>
                                 <tr>
                                     <td>First description of feature</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
                                 </tr>
                                 <tr>
                                     <td>Second description of feature</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
                                 </tr>
                                 <tr>
                                     <td>Third description of feature</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
                                 </tr>
                                 <tr>
                                     <td>Fourth description of feature</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
                                 </tr>
                                 <tr>
                                     <td>Fifth description of feature</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
                                 </tr>
                                 <tr>
                                     <td>Sixth description of feature</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
-                                    <td>X</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
+                                    <td>&#10008;</td>
                                 </tr>
                                 <tr>
                                     <td>Seventh description of feature</td>
