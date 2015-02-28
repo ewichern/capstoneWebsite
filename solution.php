@@ -166,12 +166,12 @@
 									</tr>
 									<tr>
 										<td>Ability to moderate and filter images, <br>videos and comments from social media</td>
-										<td><i class="fa fa-times"></i></td><!-- Drupal -->
-										<td><i class="fa fa-times"></i></td><!-- Pangea -->
-										<td><i class="fa fa-times"></i></td><!-- Django -->
-										<td><i class="fa fa-times"></i></td><!-- Joomla -->
-										<td><i class="fa fa-times"></i></td><!-- Armstrong -->
-										<td><i class="fa fa-times"></i></td><!-- Newscoop -->
+										<td><i class="fa fa-check"></i></td><!-- Drupal -->
+										<td><i class="fa fa-check"></i></td><!-- Pangea -->
+										<td><i class="fa fa-check"></i></td><!-- Django -->
+										<td><i class="fa fa-check"></i></td><!-- Joomla -->
+										<td><i class="fa fa-check"></i></td><!-- Armstrong -->
+										<td><i class="fa fa-check"></i></td><!-- Newscoop -->
 										<td><i class="fa fa-check"></i></td><!-- MCWordPress -->
 									</tr>
 									<tr>
