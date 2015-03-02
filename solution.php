@@ -130,7 +130,7 @@
 						</style>
 						<div class="table-responsive">
 							<table class="table table-striped">
-								<caption>Short Description</caption>
+								<!-- <caption>Short Description</caption> -->
 								<thead>
 									<tr>
 										<th>Features</th>
@@ -213,7 +213,7 @@
                             th {text-align: center;}
                         </style>
                         <div>
-                            <img src="/images/new_process_dia.png" class="img-responsive">
+                            <img src="./images/new_process_dia.png" class="img-responsive">
                         </div>
                     </div>
                 </div>
@@ -230,7 +230,18 @@
                                                                 <p class="text-left">The current process flow diagram needs software to intervene at two separate stages. The first is when content is being aggregated for a story. University newspapers could stand to have better social media integration for the stories uploaded to their websites. This would mean utilizing guest columnists, whitelisted twitter feeds, and reputation based forums for users to engage in discussion. Lastly, software intervention is needed before stories are pushed to university newspaper websites. Due to the lacking technological skillset of undergraduate journalists, content uploaded isn’t captivating enough to preserve the attention of readers. Adjustments to the aesthetic of these stories as well as data visualization to accompany those changes is needed.</p>
                                                         </div>
                                                 </div>
-                -->
+				-->
+				<div class="panel panel-success">
+					<div class="panel-heading">
+						<h3 class="panel-title">
+							Functional Components Diagram
+						</h3>
+					</div>
+					<div class="panel-body" align="center">
+						<img src="./images/functionalcomponents.png" class="img-responsive"/>
+					</div>
+				</div>
+
 				<?php include 'foot.php'; ?>
 
             </div>
