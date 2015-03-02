@@ -199,6 +199,24 @@
 						</div>
 					</div>
 				</div>
+
+                <!-- New Process Flow Diagram -->
+                <div class="panel panel-success">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">
+                            Process Flow Diagram with MCWordPress
+                        </h3>
+                    </div>
+
+                    <div class="panel-body" align="center">
+                        <style>
+                            th {text-align: center;}
+                        </style>
+                        <div>
+                            <img src="/images/new_process_dia.png" class="img-responsive">
+                        </div>
+                    </div>
+                </div>
                 <!--
                                                 <div class="panel panel-success">
                                                         <div class="panel-heading">
