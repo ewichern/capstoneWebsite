@@ -204,7 +204,7 @@
                 <div class="panel panel-success">
                     <div class="panel-heading">
                         <h3 class="panel-title">
-                            Process Flow Diagram with MCWordPress
+                            Process Flow Diagram with Monarch Press
                         </h3>
                     </div>
 
@@ -213,7 +213,7 @@
                             th {text-align: center;}
                         </style>
                         <div>
-                            <img src="./images/new_process_dia.png" class="img-responsive">
+                            <img src="./images/new_process_dia2.png" class="img-responsive">
                         </div>
                     </div>
                 </div>
