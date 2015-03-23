@@ -204,7 +204,7 @@
                 <div class="panel panel-success">
                     <div class="panel-heading">
                         <h3 class="panel-title">
-                            Process Flow Diagram with Monarch Press
+                            Process Flow Diagram with MonarchPress
                         </h3>
                     </div>
 
