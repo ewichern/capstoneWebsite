@@ -22,7 +22,7 @@
 						</td>
 						<table class="table table-bordered">
 							<tr>
-								<th class"col-xs-2">asdl</th>
+								<th class"col-xs-2"></th>
 								<th style="text-align: center" class="col-sm-2">1</th>
 								<th style="text-align: center" class="col-sm-2">2</th>
 								<th style="text-align: center" class="col-sm-2">3</th>
