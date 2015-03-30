@@ -22,12 +22,12 @@
 						</td>
 						<table class="table table-bordered">
 							<tr>
-								<th class"col-xs-1">asdl</th>
-								<th style="text-align: center" class="col-sm-1">1</th>
-								<th style="text-align: center" class="col-sm-1">2</th>
-								<th style="text-align: center" class="col-sm-1">3</th>
-								<th style="text-align: center" class="col-sm-1">4</th>
-								<th style="text-align: center" class="col-sm-1">5</th>
+								<th class"col-xs-2">asdl</th>
+								<th style="text-align: center" class="col-sm-2">1</th>
+								<th style="text-align: center" class="col-sm-2">2</th>
+								<th style="text-align: center" class="col-sm-2">3</th>
+								<th style="text-align: center" class="col-sm-2">4</th>
+								<th style="text-align: center" class="col-sm-2">5</th>
 							</tr>
 							<tr>
 								<td align="center">5</td>
