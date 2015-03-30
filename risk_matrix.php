@@ -41,7 +41,7 @@
 													<td align="center">5</td>
 													<td align="center" bgcolor="yellow"></td>
 													<td align="center" bgcolor="yellow">
-														<a class="btn btn-danger btn-s" data-toggle="collapse" data-parent="accordion" href="#collapseTwo">C2</a>
+														<a class="btn btn-s" bgcolor="silver" data-toggle="collapse" data-parent="accordion" href="#collapseTwo">C2</a>
 													</td>
 													<td align="center" bgcolor="orange"></td>
 													<td align="center" bgcolor="red"></td>
