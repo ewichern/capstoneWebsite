@@ -13,7 +13,6 @@
 				<table class="table">
 					<tbody>
 						<tr>
-							<td style="width: 60px"><td>
 							<td><h4>Probability</h4><td>
 						<tr>
 						<tr>
