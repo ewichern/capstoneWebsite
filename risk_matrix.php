@@ -23,7 +23,12 @@
 							<tr>
 							<tr>
 								<td class="vertical-text" style="width: 20px; border: none">
-									<h4>Impact</h4>
+									<h4>I
+										m
+										p
+										a
+										c
+										t</h4>
 								</td>
 								<td>
 									<div class="table-responsive">
@@ -219,7 +224,7 @@
 												<div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
 														<div class="panel-body" align="left">
 																<h4>Description</h4>
-																<p>INSERT DESCRIPTION</p>
+																<p>It may be difficult to add visualization elements into the already existing architecture.</p>
 																<h4>Mitigation Strategy</h4>
 																<p>???</p>
 														</div>
