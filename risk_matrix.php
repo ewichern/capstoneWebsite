@@ -128,7 +128,7 @@
 												<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
 														<div class="panel-body" align="left">
 																<h4>Description</h4>
-																<p>There is a change that the delivered solution may be too intimidating for new users.</p>
+																<p>There is a chance that the delivered solution may be too intimidating for new users.</p>
 																<h4>Mitigation Strategy</h4>
 																<p>Consult design experts on user interface questions in order to maintain a high-quality UX.</p>
 														</div>
