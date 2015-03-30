@@ -80,27 +80,59 @@
 				</table>
 
 				<hr class="featurette-divider">
-				<h2>Customer Risks</h2>
-				<div class="panel-group" id"accordion">
-					<!--C1-->
-					<div class="panel panel-default">
-						<div class="panel-heading">
-							<h4 class="panel-title">
-								<a data-toggle="collapse" data-parent="accordion" href="#c1" class>C1: Unrealistic Expectations Given Schedule Constraints</a>
-								<h4>
+				<div class="panel panel-success">
+						<div class="panel-heading" id="characteristicsHeading">
+								<h3 class="panel-title">
+										Customer Risks
+								</h3>
 						</div>
-					</div>
-					<div id="c1" class="panel-collapse collapse in">
+
 						<div class="panel-body">
-							::before
-							<h4>Description</h4>
-								<p>ldkasjd;lkdjasldkj</p>
-							<h4>Mitigation Strategy</h4>
-								<p>Present clear and thorough design documents so that expectations are managed and in line with the scope of the project</p>
-								::after
+								<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+										<!-- <a href="" class="btn btn-link" role="button"></a> -->
+
+										<div class="panel panel-default">
+												<div class="panel-heading" role="tab" id="headingOne">
+														<h4 class="panel-title" align="left">
+																<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+																		<span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>
+																		C1: Unrealistic Expectations Given Schedule Constraints
+																</a>
+														</h4>
+												</div>
+												<div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+														<div class="panel-body" align="left">
+																<h4>Description></h4>
+																<p>INSERT DESCRIPTION</p>
+																<h4>Mitigation Strategy</h4>
+																<p>Present clear and thorough design documents so that expectations are managed and in line with the scope of the project.</p>
+														</div>
+												</div>
+										</div>
+
+										<div class="panel panel-default">
+												<div class="panel-heading" role="tab" id="headingTwo">
+														<h4 class="panel-title" align="left">
+																<a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+																		<span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>
+																		C2: Delivered solution is too difficult to use or requires excessive training
+																</a>
+														</h4>
+												</div>
+												<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+														<div class="panel-body" align="left">
+																<h4>Description></h4>
+																<p>INSERT DESCRIPTION</p>
+																<h4>Mitigation Strategy</h4>
+																<p>Consult design experts on user interface questions in order to maintain a high-quality UX.</p>
+														</div>
+												</div>
+										</div>
+
+								</div>
 						</div>
-					</div>
 				</div>
+
 			<?php include 'foot.php'; ?>
 		</div><!-- /.container -->
 
