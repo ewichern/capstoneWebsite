@@ -13,11 +13,11 @@
 				<table class="table">
 					<tbody>
 						<tr>
-							<td style="width: 20px"><td>
+							<td style="width: 60px"><td>
 							<td><h4>Probability</h4><td>
 						<tr>
 						<tr>
-							<td class="vertical-text" style="width: 20px; border: none; transform-origin: left top 0;">
+							<td class="vertical-text" style="width: 20px; border: none; vertical-align: top">
 								<h4>Impact</h4>
 							</td>
 							<td>
