@@ -23,12 +23,7 @@
 							<tr>
 							<tr>
 								<td class="vertical-text" style="width: 20px; border: none">
-									<h4>I
-										m
-										p
-										a
-										c   
-										t</h4>
+									<h4>Impact</h4>
 								</td>
 								<td>
 									<div class="table-responsive">
@@ -226,7 +221,7 @@
 																<h4>Description</h4>
 																<p>It may be difficult to add visualization elements into the already existing architecture.</p>
 																<h4>Mitigation Strategy</h4>
-																<p>???</p>
+																<p>Research WordPress API to anticipate areas where it may limit our solution. Research other WordPress plugin implementations to understand how other developers have solved similar problems.</p>
 														</div>
 												</div>
 										</div>
