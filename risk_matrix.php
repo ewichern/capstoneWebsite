@@ -269,6 +269,7 @@
 				</div>
 
 			<?php include 'foot.php'; ?>
+			</div>
 		</div><!-- /.container -->
 
 		<?php require 'scripts.php'; ?>
