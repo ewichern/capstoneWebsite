@@ -8,7 +8,7 @@
 		<?php require 'navbar.php'; ?>
 
 		<div class="container">
-			<div class="row">
+			<div class="starter-template">
 				<div class="panel panel-success">
 						<div class="panel-heading" id="CustomerRisksHeading">
 								<h3 class="panel-title">
