@@ -18,10 +18,11 @@
 					<table class="table">
 						<tbody>
 							<tr>
+								<td style="width: 60px"></td>
 								<td><h4>Probability</h4><td>
 							<tr>
 							<tr>
-								<td class="vertical-text" style="width: 20px; border: none; transform:rotate(270deg);">
+								<td class="vertical-text" style="width: 20px; border: none">
 									<h4>Impact</h4>
 								</td>
 								<td>
