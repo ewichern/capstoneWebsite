@@ -17,7 +17,7 @@
 							<td><h4>Probability</h4><td>
 						<tr>
 						<tr>
-							<td class="vertical-text" style="width: 20px; border: none; vertical-align: top">
+							<td class="vertical-text" style="width: 20px; border: none; transform:rotate(90deg);">
 								<h4>Impact</h4>
 							</td>
 							<td>
