@@ -40,28 +40,26 @@
 												<tr>
 													<td align="center">5</td>
 													<td align="center" bgcolor="yellow"></td>
-													<td align="center" bgcolor="yellow">
-														<a class="btn btn-s" bgcolor="silver" data-toggle="collapse" data-parent="accordion" href="#collapseTwo">C2</a>
-													</td>
+													<td align="center" bgcolor="yellow">T1</td>
 													<td align="center" bgcolor="orange"></td>
 													<td align="center" bgcolor="red"></td>
 													<td align="center" bgcolor="red"></td>
 												</tr>
 												<tr>
 													<td align="center">4</td>
-													<td align="center" bgcolor="yellow"></td>
-													<td align="center" bgcolor="yellow"></td>
+													<td align="center" bgcolor="yellow">T5</td>
+													<td align="center" bgcolor="yellow">C2</td>
 													<td align="center" bgcolor="yellow"></td>
 													<td align="center" bgcolor="orange"></td>
 													<td align="center" bgcolor="red"></td>
 												</tr>
 												<tr>
 													<td align="center">3</td>
-													<td align="center" bgcolor="greenyellow"></td>
+													<td align="center" bgcolor="greenyellow">T6</td>
 													<td align="center" bgcolor="yellow"></td>
+													<td align="center" bgcolor="yellow">T3,T4</td>
 													<td align="center" bgcolor="yellow"></td>
-													<td align="center" bgcolor="yellow"></td>
-													<td align="center" bgcolor="orange"></td>
+													<td align="center" bgcolor="orange">C1</td>
 												</tr>
 												<tr>
 													<td align="center">2</td>
@@ -69,7 +67,7 @@
 													<td align="center" bgcolor="greenyellow"></td>
 													<td align="center" bgcolor="yellow"></td>
 													<td align="center" bgcolor="yellow"></td>
-													<td align="center" bgcolor="yellow"></td>
+													<td align="center" bgcolor="yellow">T2</td>
 												</tr>
 												<tr>
 													<td align="center">1</td>
