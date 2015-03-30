@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>cs410green Presentations</title>
+		<title>cs410green Risk Matrix</title>
 		<?php require 'head.php'; ?>
 	</head>
 	<body>
@@ -109,7 +109,7 @@
 												<div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
 														<div class="panel-body" align="left">
 																<h4>Description</h4>
-																<p>INSERT DESCRIPTION</p>
+																<p>The timeline of this project may not allow for the implementation of all of the desired functionalities.</p>
 																<h4>Mitigation Strategy</h4>
 																<p>Present clear and thorough design documents so that expectations are managed and in line with the scope of the project.</p>
 														</div>
@@ -128,7 +128,7 @@
 												<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
 														<div class="panel-body" align="left">
 																<h4>Description</h4>
-																<p>INSERT DESCRIPTION</p>
+																<p>There is a change that the delivered solution may be too intimidating for new users.</p>
 																<h4>Mitigation Strategy</h4>
 																<p>Consult design experts on user interface questions in order to maintain a high-quality UX.</p>
 														</div>
@@ -162,7 +162,7 @@
 												<div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
 														<div class="panel-body" align="left">
 																<h4>Description</h4>
-																<p>INSERT DESCRIPTION</p>
+																<p>The WordPress API may limit what the delivered product can do and how it does it.</p>
 																<h4>Mitigation Strategy</h4>
 																<p>Research WordPress API to anticipate areas where it may limit our solution. Research other WordPress plugin implementations to understand how other developers have solved similar problems.</p>
 														</div>
@@ -181,7 +181,7 @@
 												<div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
 														<div class="panel-body" align="left">
 																<h4>Description</h4>
-																<p>INSERT DESCRIPTION</p>
+																<p>The delivered product is written in languages that not everybody knows and this can lead to difficulties implementing and using it.</p>
 																<h4>Mitigation Strategy</h4>
 																<p>Utilize excellent WordPress API documentation, other documentation and discussion on the internet, and printed materials as references.</p>
 														</div>
@@ -200,7 +200,7 @@
 												<div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
 														<div class="panel-body" align="left">
 																<h4>Description</h4>
-																<p>INSERT DESCRIPTION</p>
+																<p>The delivered product might not interact desireably with existing plugins.</p>
 																<h4>Mitigation Strategy</h4>
 																<p>Follow best practices for WordPress and PHP development, including unique variable and method naming, use of unique class names to group methods, etc.</p>
 														</div>
@@ -238,7 +238,7 @@
 												<div id="collapseSeven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSeven">
 														<div class="panel-body" align="left">
 																<h4>Description</h4>
-																<p>INSERT DESCRIPTION</p>
+																<p>There may be security issues with how the delivered product interacts with other interfaces.</p>
 																<h4>Mitigation Strategy</h4>
 																<p>Follow WordPress API and development guidelines and utilize WordPress authentication and security features in order to minimize potential points of vulnerability to attack.</p>
 														</div>
@@ -257,9 +257,9 @@
 												<div id="collapseEight" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingEight">
 														<div class="panel-body" align="left">
 																<h4>Description</h4>
-																<p>INSERT DESCRIPTION</p>
+																<p>The delivered product might not function at a desireable speed.</p>
 																<h4>Mitigation Strategy</h4>
-																<p>Optimize and streamline current deployment. Utilize cacheing, compression, minified javascript/css resources, etc., to speed up page load times.</p>
+																<p>Optimize and streamline current deployment. Utilize caching, compression, minified javascript/css resources, etc., to speed up page load times.</p>
 														</div>
 												</div>
 										</div>
@@ -269,6 +269,7 @@
 				</div>
 
 			<?php include 'foot.php'; ?>
+		</div>
 		</div><!-- /.container -->
 
 		<?php require 'scripts.php'; ?>
