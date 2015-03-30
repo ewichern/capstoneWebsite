@@ -17,7 +17,60 @@
 							<td><h4>Probability</h4><td>
 						<tr>
 
-						<td class="vertical-text" style="width:20px; border:none"><h4>Impact</h4></td>
+						<td class="vertical-text" style="width: 20px; border: none">
+							<h4>Impact</h4>
+						</td>
+						<table class="table table-bordered">
+							<tr>
+								<th class"col-xs-1">asdl</th>
+								<th style="text-align: center" class="col-sm-1">1</th>
+								<th style="text-align: center" class="col-sm-1">2</th>
+								<th style="text-align: center" class="col-sm-1">3</th>
+								<th style="text-align: center" class="col-sm-1">4</th>
+								<th style="text-align: center" class="col-sm-1">5</th>
+							</tr>
+							<tr>
+								<td align="center">5</td>
+								<td align="center" bgcolor="green"></td>
+								<td align="center" class="warning"></td>
+								<td align="center" class="warning"></td>
+								<td align="center" class="warning"></td>
+								<td align="center" class="warning"></td>
+							</tr>
+							<tr>
+								<td align="center">4</td>
+								<td align="center" class="warning"></td>
+								<td align="center" class="warning"></td>
+								<td align="center" class="warning"></td>
+								<td align="center" class="warning"></td>
+								<td align="center" class="warning"></td>
+							</tr>
+							<tr>
+								<td align="center">3</td>
+								<td align="center" class="warning"></td>
+								<td align="center" class="warning"></td>
+								<td align="center" class="warning"></td>
+								<td align="center" class="warning"></td>
+								<td align="center" class="warning"></td>
+							</tr>
+							<tr>
+								<td align="center">2</td>
+								<td align="center" class="warning"></td>
+								<td align="center" class="warning"></td>
+								<td align="center" class="warning"></td>
+								<td align="center" class="warning"></td>
+								<td align="center" class="warning"></td>
+							</tr>
+							<tr>
+								<td align="center">1</td>
+								<td align="center" class="warning"></td>
+								<td align="center" class="warning"></td>
+								<td align="center" class="warning"></td>
+								<td align="center" class="warning"></td>
+								<td align="center" class="warning"></td>
+							</tr>
+
+						</table>
 
 					</tbody>
 				</table>
