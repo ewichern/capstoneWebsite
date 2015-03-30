@@ -31,43 +31,43 @@
 							</tr>
 							<tr>
 								<td align="center">5</td>
-								<td align="center" bgcolor="green"></td>
-								<td align="center" class="warning"></td>
-								<td align="center" class="warning"></td>
-								<td align="center" class="warning"></td>
-								<td align="center" class="warning"></td>
+								<td align="center" bgcolor="yellow"></td>
+								<td align="center" bgcolor="yellow"></td>
+								<td align="center" bgcolor="orange"></td>
+								<td align="center" bgcolor="red"></td>
+								<td align="center" bgcolor="red"></td>
 							</tr>
 							<tr>
 								<td align="center">4</td>
-								<td align="center" class="warning"></td>
-								<td align="center" class="warning"></td>
-								<td align="center" class="warning"></td>
-								<td align="center" class="warning"></td>
-								<td align="center" class="warning"></td>
+								<td align="center" bgcolor="yellow"></td>
+								<td align="center" bgcolor="yellow"></td>
+								<td align="center" bgcolor="yellow"></td>
+								<td align="center" bgcolor="orange"></td>
+								<td align="center" bgcolor="red"></td>
 							</tr>
 							<tr>
 								<td align="center">3</td>
-								<td align="center" class="warning"></td>
-								<td align="center" class="warning"></td>
-								<td align="center" class="warning"></td>
-								<td align="center" class="warning"></td>
-								<td align="center" class="warning"></td>
+								<td align="center" bgcolor="greenyellow"></td>
+								<td align="center" bgcolor="yellow"></td>
+								<td align="center" bgcolor="yellow"></td>
+								<td align="center" bgcolor="yellow"></td>
+								<td align="center" bgcolor="orange"></td>
 							</tr>
 							<tr>
 								<td align="center">2</td>
-								<td align="center" class="warning"></td>
-								<td align="center" class="warning"></td>
-								<td align="center" class="warning"></td>
-								<td align="center" class="warning"></td>
-								<td align="center" class="warning"></td>
+								<td align="center" bgcolor="green"></td>
+								<td align="center" bgcolor="greenyellow"></td>
+								<td align="center" bgcolor="yellow"></td>
+								<td align="center" bgcolor="yellow"></td>
+								<td align="center" bgcolor="yellow"></td>
 							</tr>
 							<tr>
 								<td align="center">1</td>
-								<td align="center" class="warning"></td>
-								<td align="center" class="warning"></td>
-								<td align="center" class="warning"></td>
-								<td align="center" class="warning"></td>
-								<td align="center" class="warning"></td>
+								<td align="center" bgcolor="green"></td>
+								<td align="center" bgcolor="green"></td>
+								<td align="center" bgcolor="greenyellow"></td>
+								<td align="center" bgcolor="yellow"></td>
+								<td align="center" bgcolor="yellow"></td>
 							</tr>
 
 						</table>
