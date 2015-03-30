@@ -102,7 +102,7 @@
 												</div>
 												<div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
 														<div class="panel-body" align="left">
-																<h4>Description></h4>
+																<h4>Description</h4>
 																<p>INSERT DESCRIPTION</p>
 																<h4>Mitigation Strategy</h4>
 																<p>Present clear and thorough design documents so that expectations are managed and in line with the scope of the project.</p>
@@ -121,7 +121,7 @@
 												</div>
 												<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
 														<div class="panel-body" align="left">
-																<h4>Description></h4>
+																<h4>Description</h4>
 																<p>INSERT DESCRIPTION</p>
 																<h4>Mitigation Strategy</h4>
 																<p>Consult design experts on user interface questions in order to maintain a high-quality UX.</p>
