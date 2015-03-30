@@ -79,6 +79,28 @@
 					</tbody>
 				</table>
 
+				<hr class="featurette-divider">
+				<h2>Customer Risks</h2>
+				<div class="panel-group" id"accordion">
+					<!--C1-->
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h4 class="panel-title">
+								<a data-toggle="collapse" data-parent="accordion" href="#c1" class>C1: Unrealistic Expectations Given Schedule Constraints</a>
+								<h4>
+						</div>
+					</div>
+					<div id="c1" class="panel-collapse collapse in">
+						<div class="panel-body">
+							::before
+							<h4>Description</h4>
+								<p>ldkasjd;lkdjasldkj</p>
+							<h4>Mitigation Strategy</h4>
+								<p>Present clear and thorough design documents so that expectations are managed and in line with the scope of the project</p>
+								::after
+						</div>
+					</div>
+				</div>
 			<?php include 'foot.php'; ?>
 		</div><!-- /.container -->
 
