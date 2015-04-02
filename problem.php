@@ -9,7 +9,7 @@
 
 		<div class="container">
 
-			<div class="starter-template">
+			<div class="default-formatting">
 				<h3>Problem Description</h3>
 				<br/>
 				<div class="panel panel-success">

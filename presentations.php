@@ -8,7 +8,7 @@
 		<?php require 'navbar.php'; ?>
 
 		<div class="container">
-			<div class="starter-template">
+			<div class="default-formatting">
 				<div class="panel panel-success">
 					<div class="panel-heading" id="feasibilityHeading">
 						<h3 class="panel-title">Feasibility Presentation</h3>
@@ -18,7 +18,7 @@
 					<br>
 					<a href="./images/FeasibilityPresentationRevised.pdf" class="btn btn-link" role="button">Feasibility Presentation (Revised)</a>
 					<br>
-					<a href="./images/FeasibilityPresentationCurrent.pdf" class="btn btn-link" role="button">Feasibility Presentation</a>
+					<a href="./images/FeasibilityPresentationCurrent.pdf" class="btn btn-link" role="button">Feasibility Presentation (Rev. 3)</a>
 					</div>
 				</div>
 
