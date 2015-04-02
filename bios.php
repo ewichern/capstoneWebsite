@@ -74,20 +74,19 @@
 
 						<div class="clearfix visible-sm-block"></div>
 						<div class="clearfix visible-md-block"></div>
-
+						
+						<!-- 
 						<div class="col-sm-6 col-lg-4">
 							<div class="thumbnail">
 								<img src="images/kShah.jpg" data-holder-rendered="true" class="img-responsive img-rounded" width="105px">
 								<div class="caption">
 									<h3>Kirtan Shah</h3>
 									<p>My name is Kirtan Shah. I am from India, moved to the States when in 2002. I am a senior at Old dominion University, and plan to graduate December 2015.Currently I am a Computer Science major and a minor in Actuarial Mathematics. I am a full time student and a part time employee at Quality Inn Suites. I currently live in Exmore VA, and commute to school every Tuesday and Thursday. I like to work on cars and I am a devout Football, Soccer, and Cricket fan. I enjoy the outdoors and love non-fiction mystery stories. After college I plan to apply my skills towards working for the US government.</p>
-									<!--
-									<p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
-									-->									
 								</div>
 							</div>
 						</div>
-
+						-->
+						
 						<div class="col-sm-6 col-lg-4">
 							<div class="thumbnail">
 								<img src="images/eWichern.png" data-holder-rendered="true" class="img-responsive img-rounded" width="200px">
@@ -100,10 +99,6 @@
 								</div>
 							</div>
 						</div>
-
-						<div class="clearfix visible-sm-block"></div>
-						<div class="clearfix visible-md-block"></div>
-						<div class="clearfix visible-lg-block"></div>
 
 						<div class="col-sm-6 col-lg-4">
 							<div class="thumbnail">
@@ -121,7 +116,7 @@
 						<div class="clearfix visible-sm-block"></div>
 						<div class="clearfix visible-md-block"></div>
 						<div class="clearfix visible-lg-block"></div>
-						
+
 						<!-- </div> /row-same-height -->
 					</div><!-- /row -->
 
