@@ -17,62 +17,72 @@
 						<h4>Probability</h4>
 					</div>
 					<div>
-						<span class="vertical-text">
-							<h4>Impact</h4>
-						</span>
-						<table class="table table-bordered table-responsive risk-matrix">
-							<thead>
-								<tr>
-									<th width="15%"></th>
-									<th width="17%" style="text-align: center">1</th>
-									<th width="17%" style="text-align: center">2</th>
-									<th width="17%" style="text-align: center">3</th>
-									<th width="17%" style="text-align: center">4</th>
-									<th width="17%" style="text-align: center">5</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td align="center">5</td>
-									<td align="center" bgcolor="yellow"></td>
-									<td align="center" bgcolor="yellow">T1</td>
-									<td align="center" bgcolor="orange"></td>
-									<td align="center" bgcolor="red"></td>
-									<td align="center" bgcolor="red"></td>
-								</tr>
-								<tr>
-									<td align="center">4</td>
-									<td align="center" bgcolor="yellow">T5</td>
-									<td align="center" bgcolor="yellow">C2</td>
-									<td align="center" bgcolor="yellow"></td>
-									<td align="center" bgcolor="orange"></td>
-									<td align="center" bgcolor="red"></td>
-								</tr>
-								<tr>
-									<td align="center">3</td>
-									<td align="center" bgcolor="greenyellow">T6</td>
-									<td align="center" bgcolor="yellow"></td>
-									<td align="center" bgcolor="yellow">T3,T4</td>
-									<td align="center" bgcolor="yellow"></td>
-									<td align="center" bgcolor="orange">C1</td>
-								</tr>
-								<tr>
-									<td align="center">2</td>
-									<td align="center" bgcolor="green"></td>
-									<td align="center" bgcolor="greenyellow"></td>
-									<td align="center" bgcolor="yellow"></td>
-									<td align="center" bgcolor="yellow"></td>
-									<td align="center" bgcolor="yellow">T2</td>
-								</tr>
-								<tr>
-									<td align="center">1</td>
-									<td align="center" bgcolor="green"></td>
-									<td align="center" bgcolor="green"></td>
-									<td align="center" bgcolor="greenyellow"></td>
-									<td align="center" bgcolor="yellow"></td>
-									<td align="center" bgcolor="yellow"></td>
-								</tr>
-							</tbody>
+						<table width="98%">
+							<tr>
+								<td width="10%">
+									<div class="vertical-text">
+										<h4>Impact</h4>
+									</div>
+								</td>
+								<td width="90%>
+									<div class="table-responsive">
+										<table class="table table-bordered">
+											<thead>
+												<tr>
+													<th width="15%"></th>
+													<th width="17%" style="text-align: center">1</th>
+													<th width="17%" style="text-align: center">2</th>
+													<th width="17%" style="text-align: center">3</th>
+													<th width="17%" style="text-align: center">4</th>
+													<th width="17%" style="text-align: center">5</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td align="center">5</td>
+													<td align="center" bgcolor="yellow"></td>
+													<td align="center" bgcolor="yellow">T1</td>
+													<td align="center" bgcolor="orange"></td>
+													<td align="center" bgcolor="red"></td>
+													<td align="center" bgcolor="red"></td>
+												</tr>
+												<tr>
+													<td align="center">4</td>
+													<td align="center" bgcolor="yellow">T5</td>
+													<td align="center" bgcolor="yellow">C2</td>
+													<td align="center" bgcolor="yellow"></td>
+													<td align="center" bgcolor="orange"></td>
+													<td align="center" bgcolor="red"></td>
+												</tr>
+												<tr>
+													<td align="center">3</td>
+													<td align="center" bgcolor="greenyellow">T6</td>
+													<td align="center" bgcolor="yellow"></td>
+													<td align="center" bgcolor="yellow">T3,T4</td>
+													<td align="center" bgcolor="yellow"></td>
+													<td align="center" bgcolor="orange">C1</td>
+												</tr>
+												<tr>
+													<td align="center">2</td>
+													<td align="center" bgcolor="green"></td>
+													<td align="center" bgcolor="greenyellow"></td>
+													<td align="center" bgcolor="yellow"></td>
+													<td align="center" bgcolor="yellow"></td>
+													<td align="center" bgcolor="yellow">T2</td>
+												</tr>
+												<tr>
+													<td align="center">1</td>
+													<td align="center" bgcolor="green"></td>
+													<td align="center" bgcolor="green"></td>
+													<td align="center" bgcolor="greenyellow"></td>
+													<td align="center" bgcolor="yellow"></td>
+													<td align="center" bgcolor="yellow"></td>
+												</tr>
+											</tbody>
+										</table>
+									</div>
+								</td>
+							</tr>
 						</table>
 					</div>
 
