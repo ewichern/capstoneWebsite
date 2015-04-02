@@ -7,9 +7,9 @@
 	<body>
 		<?php require 'navbar.php'; ?>
 
-		<div class="container-fluid">
+		<div class="container">
 
-			<div class="starter-template">
+			<div class="default-formatting">
 				<h2 id="thumbnails-bios">Green Team = Best Team</h2>
 				<div data-id="member-bios">
 					<div class="row-fluid">
