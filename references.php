@@ -9,7 +9,7 @@
 
 		<div class="container">
 
-			<div class="starter-template">
+			<div class="default-formatting">
 				<h1>References</h1>
 				<p class="text-left">
 					Environmental Protection Agency - Climate Change: Basic Information</br>

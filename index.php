@@ -9,7 +9,7 @@
 
 		<div class="container">
 
-			<div class="starter-template">
+			<div class="default-formatting">
 				<h1>CS 410 Green</h1>
 				<br>
 				<?php include 'foot.php'; ?>
