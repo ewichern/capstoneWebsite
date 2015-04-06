@@ -23,7 +23,7 @@ echo'
 				<li><a href="problem.php">Problem Description</a></li>
 				<li><a href="solution.php">Solution Characteristics</a></li>
 				<li><a href="risk_matrix.php">Risk Matrix</a></li>
-				<li><a href="deliverableFiles.php">Presentations</a></li>
+				<li><a href="deliverableFiles.php">Deliverable Files</a></li>
 				<li><a href="references.php">References</a></li>
 
 				<!--
