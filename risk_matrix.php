@@ -134,7 +134,7 @@
 										<h4>Impact: 4</h4>
 										<h4>Probability: 2</h4>
 										<h4>Description</h4>
-										<p>There is a chance that new users might be intimidated by the delivered solution.</p>
+										<p>New users might be intimidated by the delivered solution.</p>
 										<h4>Mitigation Strategy</h4>
 										<p>Consult design experts on user interface questions in order to maintain a high-quality UX.</p>
 									</div>
@@ -155,7 +155,7 @@
 										<h4>Impact: 4</h4>
 										<h4>Probability: 2</h4>
 										<h4>Description</h4>
-										<p>There is a chance that new users might be intimidated by the delivered solution.</p>
+										<p>Readers do not find articles created using the delivered product attractive.</p>
 										<h4>Mitigation Strategy</h4>
 										<p>Become aware and use best practices by learning from available UI and UX experts. In addition, by keeping the public involved by providing cupons for delivered feedback.</p>
 									</div>
