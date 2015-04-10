@@ -41,7 +41,7 @@
 												<tr>
 													<td align="center">5</td>
 													<td align="center" bgcolor="yellow"></td>
-													<td align="center" bgcolor="yellow">T1</td>
+													<td align="center" bgcolor="yellow">C1,T1</td>
 													<td align="center" bgcolor="orange"></td>
 													<td align="center" bgcolor="red"></td>
 													<td align="center" bgcolor="red"></td>
@@ -49,7 +49,7 @@
 												<tr>
 													<td align="center">4</td>
 													<td align="center" bgcolor="yellow">T5</td>
-													<td align="center" bgcolor="yellow">C2</td>
+													<td align="center" bgcolor="yellow">C2,C3</td>
 													<td align="center" bgcolor="yellow"></td>
 													<td align="center" bgcolor="orange"></td>
 													<td align="center" bgcolor="red"></td>
@@ -58,9 +58,9 @@
 													<td align="center">3</td>
 													<td align="center" bgcolor="greenyellow">T6</td>
 													<td align="center" bgcolor="yellow"></td>
-													<td align="center" bgcolor="yellow">T3,T4</td>
+													<td align="center" bgcolor="yellow">C4,T3,T4</td>
 													<td align="center" bgcolor="yellow"></td>
-													<td align="center" bgcolor="orange">C1</td>
+													<td align="center" bgcolor="orange"></td>
 												</tr>
 												<tr>
 													<td align="center">2</td>
@@ -104,16 +104,18 @@
 									<h4 class="panel-title" align="left">
 										<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
 											<span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>
-											C1: Unrealistic Expectations Given Schedule Constraints
+											C1: Customer does not adopt the delivered solution
 										</a>
 									</h4>
 								</div>
 								<div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
 									<div class="panel-body" align="left">
+										<h4>Impact: 5</h4>
+										<h4>Probability: 2</h4>
 										<h4>Description</h4>
-										<p>The timeline of this project may not allow for the implementation of all of the desired functionalities.</p>
+										<p>If the intended customers do not use our delivered solution then this entire project has been a waste of time.</p>
 										<h4>Mitigation Strategy</h4>
-										<p>Present clear and thorough design documents so that expectations are managed and in line with the scope of the project.</p>
+										<p>Using the Mace and Crown as a case study, we should be able to ensure that the delivered product will be user friendly and approachable for new users.</p>
 									</div>
 								</div>
 							</div>
@@ -123,16 +125,60 @@
 									<h4 class="panel-title" align="left">
 										<a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
 											<span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>
-											C2: Delivered solution is too difficult to use or requires excessive training
+											C2: Skill set and knowledge level of intended user is not sophisticated enough for the delivered solution
 										</a>
 									</h4>
 								</div>
 								<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
 									<div class="panel-body" align="left">
+										<h4>Impact: 4</h4>
+										<h4>Probability: 2</h4>
 										<h4>Description</h4>
-										<p>There is a chance that the delivered solution may be too intimidating for new users.</p>
+										<p>There is a chance that new users might be intimidated by the delivered solution.</p>
 										<h4>Mitigation Strategy</h4>
 										<p>Consult design experts on user interface questions in order to maintain a high-quality UX.</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="panel panel-default">
+								<div class="panel-heading" role="tab" id="headingNine">
+									<h4 class="panel-title" align="left">
+										<a data-toggle="collapse" data-parent="#accordion" href="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+											<span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>
+											C3: Templates and articles made and used by the delivered product are not attractive enough for readers
+										</a>
+									</h4>
+								</div>
+								<div id="collapseNine" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingNine">
+									<div class="panel-body" align="left">
+										<h4>Impact: 4</h4>
+										<h4>Probability: 2</h4>
+										<h4>Description</h4>
+										<p>There is a chance that new users might be intimidated by the delivered solution.</p>
+										<h4>Mitigation Strategy</h4>
+										<p>Become aware and use best practices by learning from available UI and UX experts. In addition, by keeping the public involved by providing cupons for delivered feedback.</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="panel panel-default">
+								<div class="panel-heading" role="tab" id="headingTen">
+									<h4 class="panel-title" align="left">
+										<a data-toggle="collapse" data-parent="#accordion" href="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+											<span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>
+											C4: Readers do not come back to revisit stories that are being reported on
+										</a>
+									</h4>
+								</div>
+								<div id="collapseTen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTen">
+									<div class="panel-body" align="left">
+										<h4>Impact: 3</h4>
+										<h4>Probability: 3</h4>
+										<h4>Description</h4>
+										<p>Readers visit an article once but do not follow up on how the story has evolved since then.</p>
+										<h4>Mitigation Strategy</h4>
+										<p>Promise evolving stories and product and giving the opportunity to sign up for news alerts and notifications on articles that readers find interesting.</p>
 									</div>
 								</div>
 							</div>
@@ -163,6 +209,8 @@
 								</div>
 								<div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
 									<div class="panel-body" align="left">
+										<h4>Impact: 5</h4>
+										<h4>Probability: 2</h4>
 										<h4>Description</h4>
 										<p>The WordPress API may limit what the delivered product can do and how it does it.</p>
 										<h4>Mitigation Strategy</h4>
@@ -182,10 +230,12 @@
 								</div>
 								<div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
 									<div class="panel-body" align="left">
+										<h4>Impact: 2</h4>
+										<h4>Probability: 5</h4>
 										<h4>Description</h4>
 										<p>The delivered product is written in languages that not everybody knows and this can lead to difficulties implementing and using it.</p>
 										<h4>Mitigation Strategy</h4>
-										<p>Utilize excellent WordPress API documentation, other documentation and discussion on the internet, and printed materials as references.</p>
+										<p>Utilize excellent WordPress API documentation, other documentation and discussion on the internet, and printed materials as references. Also, learn WordPress over the Summer.</p>
 									</div>
 								</div>
 							</div>
@@ -201,8 +251,10 @@
 								</div>
 								<div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
 									<div class="panel-body" align="left">
+										<h4>Impact: 3</h4>
+										<h4>Probability: 3</h4>
 										<h4>Description</h4>
-										<p>The delivered product might not interact desireably with existing plugins.</p>
+										<p>The delivered product does not interact desireably with existing plugins.</p>
 										<h4>Mitigation Strategy</h4>
 										<p>Follow best practices for WordPress and PHP development, including unique variable and method naming, use of unique class names to group methods, etc.</p>
 									</div>
@@ -214,12 +266,14 @@
 									<h4 class="panel-title" align="left">
 										<a data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
 											<span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>
-											T4: Potential Difficulty Integrating Interactive and Visualization Elements
+											T4: Difficulty Integrating Interactive and Visualization Elements
 										</a>
 									</h4>
 								</div>
 								<div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
 									<div class="panel-body" align="left">
+										<h4>Impact: 3</h4>
+										<h4>Probability: 3</h4>
 										<h4>Description</h4>
 										<p>It may be difficult to add visualization elements into the already existing architecture.</p>
 										<h4>Mitigation Strategy</h4>
@@ -239,6 +293,8 @@
 								</div>
 								<div id="collapseSeven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSeven">
 									<div class="panel-body" align="left">
+										<h4>Impact: 3</h4>
+										<h4>Probability: 1</h4>
 										<h4>Description</h4>
 										<p>There may be security issues with how the delivered product interacts with other interfaces.</p>
 										<h4>Mitigation Strategy</h4>
@@ -258,6 +314,8 @@
 								</div>
 								<div id="collapseEight" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingEight">
 									<div class="panel-body" align="left">
+										<h4>Impact: 3</h4>
+										<h4>Probability: 1</h4>
 										<h4>Description</h4>
 										<p>The delivered product might not function at a desireable speed.</p>
 										<h4>Mitigation Strategy</h4>
