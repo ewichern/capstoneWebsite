@@ -115,7 +115,7 @@
 										<h4>Description</h4>
 										<p>If the intended customers do not use our delivered solution then this entire project has been a waste of time.</p>
 										<h4>Mitigation Strategy</h4>
-										<p>Using the Mace and Crown as a case study, we should be able to ensure that the delivered product will be user friendly and approachable for new users.</p>
+										<p>By using the Mace and Crown as a case study we should be able to ensure that the delivered product will be user friendly and approachable for new users.</p>
 									</div>
 								</div>
 							</div>
