@@ -12,7 +12,7 @@
 			<div class="default-formatting">
 				<h2 id="thumbnails-bios">Green Team = Best Team</h2>
 				<div data-id="member-bios">
-					<div class="row-fluid">
+					<div class="row-fluid text-justify">
 						<!-- <div class="row-same-height"> -->
 
 						<div class="col-sm-6 col-lg-4">

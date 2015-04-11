@@ -9,7 +9,7 @@
 
 		<div class="container">
 			<div class="default-formatting">
-				<div class="panel panel-success">
+				<div class="panel panel-primary">
 					<div class="panel-heading" id="CustomerRisksHeading">
 						<h3 class="panel-title">Risk Matrix</h3>
 					</div>
@@ -88,7 +88,7 @@
 
 				</div>
 
-				<div class="panel panel-success">
+				<div class="panel panel-primary">
 					<div class="panel-heading" id="CustomerRisksHeading">
 						<h3 class="panel-title">
 							Customer Risks
@@ -113,7 +113,7 @@
 										<h4>Impact: 5</h4>
 										<h4>Probability: 2</h4>
 										<h4>Description</h4>
-										<p>If the intended customers do not use our delivered solution then this entire project has been a waste of time.</p>
+										<p class="text">If the intended customers do not use our delivered solution then this entire project has been a waste of time.</p>
 										<h4>Mitigation Strategy</h4>
 										<p>By using the Mace and Crown as a case study we should be able to ensure that the delivered product will be user friendly and approachable for new users.</p>
 									</div>
@@ -187,7 +187,7 @@
 					</div>
 				</div>
 
-				<div class="panel panel-success">
+				<div class="panel panel-primary">
 					<div class="panel-heading" id="TechnicalRisksHeading">
 						<h3 class="panel-title">
 							Technical Risks

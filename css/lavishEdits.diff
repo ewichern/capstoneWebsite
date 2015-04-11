@@ -1,0 +1,73 @@
+left = original
+right = my edits
+2a3,5
+> 
+> @import url("//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700");
+> 
+71c74
+<   font-family: monospace, serif;
+---
+>   font-family: monospace, monospace;
+253c256,257
+<   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+---
+>   font-family: "Source Sans Pro", Calibri, Candara, Arial, sans-serif;
+>   /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+388,389c392,394
+<   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+<   font-weight: 500;
+---
+>   font-family: "Source Sans Pro", Calibri, Candara, Arial, sans-serif;
+>   /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+>   font-weight: 300;
+390a396
+>   color: inherit;
+1113c1119
+<     max-width: 1170px;
+---
+>     max-width: 1024px;
+4969a4976
+>   font-family: "Source Sans Pro", Calibri, Candara, Arial, sans-serif;
+5071a5079
+>   font-family: "Source Sans Pro", Calibri, Candara, Arial, sans-serif;
+5900a5909,5947
+> 
+> /* body {
+> 	padding-top: 70px;
+> }*/
+> 
+> .default-formatting {
+> 	/* padding: 40px 15px; */
+> 	text-align: center;
+> }
+> .row-same-height {
+>     display: table;
+>     width: 100%;
+> }
+> .col-xs-height {
+>     display: table-cell;
+>     float: none;
+> }
+> 
+> .img-bio {
+> 	width: auto;
+> 	height: auto;
+> 	max-width: 200px;
+> 	height: auto;
+> }
+> 
+> .vertical-text {
+> 	float:left;
+> 	-webkit-transform: rotate(270deg);
+> 	-moz-transform: rotate(270deg);
+> 	-ms-transform: rotate(270deg);
+> 	-o-transform: rotate(270deg);
+> 	transform: rotate(270deg);
+> }
+> 
+> .risk-matrix {
+> 	margin-left: 50px;
+> 	margin-bottom: 20px;
+> 	width: 90%;
+> }
+\ No newline at end of file
