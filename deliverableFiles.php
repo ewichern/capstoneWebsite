@@ -8,8 +8,8 @@
 		<?php require 'navbar.php'; ?>
 
 		<div class="container">
-			<div class="starter-template">
-				<div class="panel panel-success">
+			<div class="default-formatting">
+				<div class="panel panel-primary">
 					<div class="panel-heading" id="feasibilityHeading">
 						<h3 class="panel-title">Feasibility Presentation</h3>
 					</div>
@@ -22,7 +22,7 @@
 						</div>
 				</div>
 
-				<div class="panel panel-success">
+				<div class="panel panel-primary">
 					<div class="panel-heading" id="userStoriesHeading">
 						<h3 class="panel-title">User Stories</h3>
 					</div>

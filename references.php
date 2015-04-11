@@ -11,7 +11,7 @@
 
 			<div class="default-formatting">
 				<h1>References</h1>
-				<p class="text-left">
+				<div class="text-left">
 					Environmental Protection Agency - Climate Change: Basic Information</br>
 					<a href="http://www.epa.gov/climatechange/basics/">http://www.epa.gov/climatechange/basics</a></br></br>
 					2014 National Climate Assessment</br>
@@ -28,7 +28,7 @@
 					<a href="http://www.huffingtonpost.com/2012/04/28/norfolk-virginia-sea-levels-rise_n_1461486.html">http://www.huffingtonpost.com/2012/04/28/norfolk-virginia-sea-levels-rise_n_1461486.html</a></br></br>
 					The Daily Climate - Sea-level rise: Whatever you call it, water is rising in Norfolk</br>
 					<a href="http://www.dailyclimate.org/tdc-newsroom/2012/08/norfolk-sea-level-rise">http://www.dailyclimate.org/tdc-newsroom/2012/08/norfolk-sea-level-rise</a></br></br>
-				</p>
+				</div>
 
 				<?php include 'foot.php'; ?>
 
