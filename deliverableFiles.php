@@ -33,6 +33,15 @@
 					</div>
 				</div>
 
+				<div class="panel panel-primary">
+					<div class="panel-heading" id="workbreakdownheading">
+						<h3 class="panel-title">Work Breakdown Structure</h3>
+					</div>
+					<div class="panel-body" align="left" id="workbreakdownBody">
+						<a href="./images/work_breakdown.pdf" class="btn btn-link" role="button">Work Breakdown Structure</a>
+					</div>
+				</div>
+
 				<?php include 'foot.php'; ?>
 			</div>
 		</div><!-- /.container -->
