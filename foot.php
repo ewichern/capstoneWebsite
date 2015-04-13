@@ -9,6 +9,7 @@ echo'
 	<a href="risk_matrix.php" class="btn btn-primary">Risk Matrix</a>
 	<a href="deliverableFiles.php" class="btn btn-primary">Deliverable Files</a>
 	<a href="references.php" class="btn btn-primary">References</a>
+	<a href="glossary.php" class="btn btn-primary">Glossary</a>
 </div>
 ';
 ?>

@@ -28,6 +28,8 @@
 					</div>
 					<div class="panel-body" align="left" id="userStoriesBody">
 						<a href="./images/UserStories.pdf" class="btn btn-link" role="button">User Stories</a>
+						<br>	
+						<a href="./images/410GreenUserStories.pdf" class="btn btn-link" role="button">User Stories (Revised)</a>
 					</div>
 				</div>
 
