@@ -25,6 +25,7 @@ echo'
 				<li><a href="risk_matrix.php">Risk Matrix</a></li>
 				<li><a href="deliverableFiles.php">Deliverable Files</a></li>
 				<li><a href="references.php">References</a></li>
+				<li><a href="glossary.php">Glossary</a.</li>
 
 				<!--
 				<li class="dropdown">
