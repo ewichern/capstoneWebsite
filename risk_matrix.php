@@ -16,7 +16,7 @@
 					<div>
 						<h4>Probability</h4>
 					</div>
-					<div>
+					<div class="table-responsive">
 						<table width="98%">
 							<tr>
 								<td width="10%">
@@ -24,8 +24,7 @@
 										<h4>Impact</h4>
 									</div>
 								</td>
-								<td width="90%>
-									<div class="table-responsive">
+								<td width="90%">
 										<table class="table table-bordered">
 											<thead>
 												<tr>
@@ -80,7 +79,6 @@
 												</tr>
 											</tbody>
 										</table>
-									</div>
 								</td>
 							</tr>
 						</table>
