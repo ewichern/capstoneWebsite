@@ -6,5 +6,6 @@ echo'
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
 <link rel="stylesheet" href="css/green-theme.css"/>
+<link rel="stylesheet" href="css/sticky-footer-navbar.css"/>
 ';
 ?>

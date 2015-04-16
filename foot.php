@@ -1,19 +1,16 @@
 <?php
 echo'
-<br>
-<div class="text-center">
-	<div class="btn-group" role="group" aria-label="footer navigation buttons" align="center">
-		<a href="index.php" class="btn btn-primary">410green Home</a>
-		<a href="bios.php" class="btn btn-primary">About the Team</a>
-		<a href="problem.php" class="btn btn-primary">Problem Description</a>
-		<a href="solution.php" class="btn btn-primary">Solution Characteristics</a>
+<footer class="footer">
+	<div class="container">
+		<a href="index.php" class="">410green Home</a>//
+		<a href="bios.php" class="">About the Team</a>//
+		<a href="problem.php" class="">Problem Description</a>//
+		<a href="solution.php" class="">Solution Characteristics</a>//
+		<a href="risk_matrix.php" class="">Risk Matrix</a>//
+		<a href="deliverableFiles.php" class="">Deliverable Files</a>//
+		<a href="references.php" class="">References</a>//
+		<a href="glossary.php" class="">Glossary</a>
 	</div>
-	<div class="btn-group" role="group" aria-label="footer navigation buttons" align="center">
-		<a href="risk_matrix.php" class="btn btn-primary">Risk Matrix</a>
-		<a href="deliverableFiles.php" class="btn btn-primary">Deliverable Files</a>
-		<a href="references.php" class="btn btn-primary">References</a>
-		<a href="glossary.php" class="btn btn-primary">Glossary</a>
-	</div>
-</div>
+</footer>
 ';
 ?>

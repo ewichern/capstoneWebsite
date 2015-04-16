@@ -17,7 +17,7 @@
 					2014 National Climate Assessment</br>
 					<a href="http://nca2014.globalchange.gov/report">http://nca2014.globalchange.gov/report</a></br></br>
 					Natural Resources Defense Council - Climate Change Health Threats in Virginia</br>
-					<a href="http://www.nrdc.org/health/climate/va.asp">http://www.nrdc.org/health/climate/va.asp</a></br></br>				
+					<a href="http://www.nrdc.org/health/climate/va.asp">http://www.nrdc.org/health/climate/va.asp</a></br></br>
 					Washington Post - In Norfolk, evidence of climate change is in the streets at high tide</br>
 					<a href="http://www.washingtonpost.com/business/economy/in-norfolk-evidence-of-climate-change-is-in-the-streets-at-high-tide/2014/05/31/fe3ae860-e71f-11e3-8f90-73e071f3d637_story.html">http://www.washingtonpost.com/business/economy/in-norfolk-evidence-of-climate-change-is-in-the-streets-at-high-tide/2014/05/31/fe3ae860-e71f-11e3-8f90-73e071f3d637_story.html</a></br></br>
 					NPR - As Sea Levels Rise, Norfolk Is Sinking And Planning</br>
@@ -30,11 +30,11 @@
 					<a href="http://www.dailyclimate.org/tdc-newsroom/2012/08/norfolk-sea-level-rise">http://www.dailyclimate.org/tdc-newsroom/2012/08/norfolk-sea-level-rise</a></br></br>
 				</div>
 
-				<?php include 'foot.php'; ?>
 
 			</div>
 
 		</div><!-- /.container -->
+				<?php include 'foot.php'; ?>
 
 		<?php require 'scripts.php'; ?>
 	</body>

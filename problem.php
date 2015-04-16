@@ -48,7 +48,7 @@
 										<li><a href="http://ec2-23-21-180-28.compute-1.amazonaws.com/mediashift/wp-content/uploads/sites/8/import/i-5608f590c88c0e82640b95434d23dd4b-Planning_bestpractices.pdf">Collective Work: Best Practices for Collaborative Investigative Reporting</a></li></ul></li>
 								<li>The strategic plan for Old Dominion University indicates a variety of goal areas for the university to work towards over the next 5 years. These include the need for real-world opportunities for students, “entrepreneurial interdisciplinary curriculum,” and to increase student and local community engagement. <br>
 									<ul><li><a href="https://www.odu.edu/about/planning/strategic-plan-14-19">Strategic Plan (2014-2019)</a></li></ul></li>
-							</ol>			
+							</ol>
 						</div>
 
 					</div>
@@ -66,11 +66,11 @@
 						</div>
 					</div>
 
-					<?php include 'foot.php'; ?>
 				</div>
 			</div>
 		</div><!-- /.container -->
 
+					<?php include 'foot.php'; ?>
 		<?php require 'scripts.php'; ?>
 	</body>
 </html>

@@ -326,10 +326,10 @@
 					</div>
 				</div>
 
-				<?php include 'foot.php'; ?>
 			</div>
 		</div><!-- /.container -->
 
+				<?php include 'foot.php'; ?>
 		<?php require 'scripts.php'; ?>
 
 	</body>
