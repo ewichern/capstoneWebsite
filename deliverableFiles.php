@@ -75,39 +75,63 @@
 							 Need a lg clearfix every 6 -->
 
 							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
-								<a href="images/CommentsDisplay.png" class="thumbnail">
-									<img src="images/CommentsDisplay.png" alt="Comments Display Algorithm">
+								<a href="images/ContentDisplay.png" class="thumbnail">
+									<img src="images/ContentDisplay.png">
 								</a>
 							</div>
 					
 							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
-								<a href="images/Favorite-notificationWidget.png" class="thumbnail">
-									<img src="images/Favorite-notificationWidget.png" alt="Comments Display Algorithm">
+								<a href="images/ContentEditing.png" class="thumbnail">
+									<img src="images/ContentEditing.png">
 								</a>
 							</div>
-						
+					
 							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
-								<a href="images/MediaElementDisplay.png" class="thumbnail">
-									<img src="images/MediaElementDisplay.png" alt="Comments Display Algorithm">
+								<a href="images/SubmissionApproval.png" class="thumbnail">
+									<img src="images/SubmissionApproval.png">
 								</a>
 							</div>
 
 							<div class="clearfix visible-xs-block"></div>
-				
+					
 							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
-								<a href="images/NewsFeedAggregation.png" class="thumbnail">
-									<img src="images/NewsFeedAggregation.png" alt="Comments Display Algorithm">
+								<a href="images/CommentsDisplay.png" class="thumbnail">
+									<img src="images/CommentsDisplay.png">
 								</a>
 							</div>
 
 							<div class="clearfix visible-sm-block"></div>
 							<div class="clearfix visible-md-block"></div>
+					
+							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+								<a href="images/Favorite-notificationWidget.png" class="thumbnail">
+									<img src="images/Favorite-notificationWidget.png">
+								</a>
+							</div>
+						
+							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+								<a href="images/MediaElementDisplay.png" class="thumbnail">
+									<img src="images/MediaElementDisplay.png">
+								</a>
+							</div>
+
+							<div class="clearfix visible-xs-block"></div>
+							<div class="clearfix visible-lg-block"></div>
+				
+							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+								<a href="images/NewsFeedAggregation.png" class="thumbnail">
+									<img src="images/NewsFeedAggregation.png">
+								</a>
+							</div>
 						
 							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
 								<a href="images/NewsFeedDisplay.png" class="thumbnail">
 									<img src="images/NewsFeedDisplay.png" alt="Comments Display Algorithm">
 								</a>
 							</div>
+
+							<div class="clearfix visible-sm-block"></div>
+							<div class="clearfix visible-md-block"></div>
 							
 							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
 								<a href="images/TwitterFeedDisplay.png" class="thumbnail">
@@ -116,8 +140,7 @@
 							</div>
 
 							<div class="clearfix visible-xs-block"></div>
-							<div class="clearfix visible-lg-block"></div>
-						
+
 							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
 								<a href="images/TwitterFeedAggregation.png" class="thumbnail">
 									<img src="images/TwitterFeedAggregation.png" alt="Comments Display Algorithm">
