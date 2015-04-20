@@ -43,6 +43,16 @@
 				</div>
 
 			</div>
+
+      <div class="panel panel-primary">
+          <div class="panel-heading" id="workbreakdownheading">
+            <h3 class="panel-title">Site Map</h3>
+          </div>
+          <div class="panel-body" align="left" id="workbreakdownBody">
+            <img src="./images/SiteMap.png" class="img-responsive"/>
+          </div>
+        </div>
+      </div>
 		</div><!-- /.container -->
 
 				<?php include 'foot.php'; ?>
