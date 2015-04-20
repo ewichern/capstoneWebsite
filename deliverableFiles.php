@@ -44,23 +44,89 @@
                 </div>
 
                 <div class="panel panel-primary">
-                    <div class="panel-heading" id="workbreakdownheading">
+                    <div class="panel-heading" id="sitemapPanelHeading">
                         <h3 class="panel-title">Site Map</h3>
                     </div>
-                    <div class="panel-body" align="left" id="workbreakdownBody">
+                    <div class="panel-body" align="left" id="sitemapPanelBody">
                         <img src="./images/SiteMap.png" class="img-responsive"/>
                     </div>
                 </div>
                 
                 <div class="panel panel-primary">
-                    <div class="panel-heading" id="workbreakdownheading">
+                    <div class="panel-heading" id="databasePanelheading">
                         <h3 class="panel-title">Database</h3>
                     </div>
-                    <div class="panel-body" align="left" id="workbreakdownBody">
+                    <div class="panel-body" align="left" id="databasePanelBody">
                         <img src="./images/db.png" class="img-responsive"/>
                         <img src="./images/ERD.png" class="img-responsive"/>
                     </div>
                 </div>
+				
+				<div class="panel panel-primary">
+					<div class="panel-heading" id="algorithmsPanelHeading">
+						<h3 class="panel-title">Algorithms</h3>
+					</div>
+					<div class="panel-body" id="algorithmsPanelBody">
+						<div class="row-fluid">
+
+						<!-- With this grid layout:
+							 Need a xs clearfix every 3 
+							 Need a sm + md clearfix every 4
+							 Need a lg clearfix every 6 -->
+
+							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+								<a href="images/CommentsDisplay.png" class="thumbnail">
+									<img src="images/CommentsDisplay.png" alt="Comments Display Algorithm">
+								</a>
+							</div>
+					
+							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+								<a href="images/Favorite-notificationWidget.png" class="thumbnail">
+									<img src="images/Favorite-notificationWidget.png" alt="Comments Display Algorithm">
+								</a>
+							</div>
+						
+							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+								<a href="images/MediaElementDisplay.png" class="thumbnail">
+									<img src="images/MediaElementDisplay.png" alt="Comments Display Algorithm">
+								</a>
+							</div>
+
+							<div class="clearfix visible-xs-block"></div>
+				
+							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+								<a href="images/NewsFeedAggregation.png" class="thumbnail">
+									<img src="images/NewsFeedAggregation.png" alt="Comments Display Algorithm">
+								</a>
+							</div>
+
+							<div class="clearfix visible-sm-block"></div>
+							<div class="clearfix visible-md-block"></div>
+						
+							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+								<a href="images/NewsFeedDisplay.png" class="thumbnail">
+									<img src="images/NewsFeedDisplay.png" alt="Comments Display Algorithm">
+								</a>
+							</div>
+							
+							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+								<a href="images/TwitterFeedDisplay.png" class="thumbnail">
+									<img src="images/TwitterFeedDisplay.png" alt="Comments Display Algorithm">
+								</a>
+							</div>
+
+							<div class="clearfix visible-xs-block"></div>
+							<div class="clearfix visible-lg-block"></div>
+						
+							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+								<a href="images/TwitterFeedAggregation.png" class="thumbnail">
+									<img src="images/TwitterFeedAggregation.png" alt="Comments Display Algorithm">
+								</a>
+							</div>
+
+						</div>
+					</div>
+				</div>
 
             </div><!-- /.default-formatting -->
 
