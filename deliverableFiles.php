@@ -57,7 +57,7 @@
                         <h3 class="panel-title">Database</h3>
                     </div>
                     <div class="panel-body" align="left" id="workbreakdownBody">
-                        <img src="./images/table.png" class="img-responsive"/>
+                        <img src="./images/db.png" class="img-responsive"/>
                         <img src="./images/ERD.png" class="img-responsive"/>
                     </div>
                 </div>
