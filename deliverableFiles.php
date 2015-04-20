@@ -61,6 +61,15 @@
                         <img src="./images/ERD.png" class="img-responsive"/>
                     </div>
                 </div>
+                
+                <div class="panel panel-primary">
+                    <div class="panel-heading" id="ioPanelHeading">
+                        <h3 class="panel-title">Legacy Input/Output</h3>
+                    </div>
+                    <div class="panel-body" align="left" id="ioPanelBody">
+                        <img src="./images/io_diagram.PNG" class="img-responsive"/>
+                    </div>
+                </div>
 				
 				<div class="panel panel-primary">
 					<div class="panel-heading" id="algorithmsPanelHeading">
