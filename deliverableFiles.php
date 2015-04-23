@@ -84,18 +84,21 @@
 							 Need a lg clearfix every 6 -->
 
 							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+							Content Display
 								<a href="images/ContentDisplay.png" class="thumbnail">
 									<img src="images/ContentDisplay.png">
 								</a>
 							</div>
 
 							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+							Content Editing / Submission
 								<a href="images/ContentEditing.png" class="thumbnail">
 									<img src="images/ContentEditing.png">
 								</a>
 							</div>
 
 							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+							Submission Approval / Rejection
 								<a href="images/SubmissionApproval.png" class="thumbnail">
 									<img src="images/SubmissionApproval.png">
 								</a>
@@ -103,7 +106,8 @@
 
 							<div class="clearfix visible-xs-block"></div>
 
-              <div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+			  <div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+			  Create Page Template
                 <a href="images/CreateTemplate.png" class="thumbnail">
                   <img src="images/CreateTemplate.png">
                 </a>
@@ -112,13 +116,15 @@
               <div class="clearfix visible-sm-block"></div>
               <div class="clearfix visible-md-block"></div>
 
-              <div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+			  <div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+			  Edit Page Template
                 <a href="images/EditTemplate.png" class="thumbnail">
                   <img src="images/EditTemplate.png">
                 </a>
               </div>
 
-              <div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+			  <div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+			  Edit Site Theme
                 <a href="images/EditTheme.png" class="thumbnail">
                   <img src="images/EditTheme.png">
                 </a>
@@ -128,52 +134,66 @@
               <div class="clearfix visible-lg-block"></div>
 
 							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+							Comments Display Widget
 								<a href="images/CommentsDisplay.png" class="thumbnail">
 									<img src="images/CommentsDisplay.png">
 								</a>
 							</div>
 
 							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
-								<a href="images/Favorite-notificationWidget.png" class="thumbnail">
-									<img src="images/Favorite-notificationWidget.png">
+							Comment Input Widget
+								<a href="images/CommentInputWidget.png" class="thumbnail">
+									<img src="images/CommentInputWidget.png">
 								</a>
 							</div>
 
-              <div class="clearfix visible-sm-block"></div>
-              <div class="clearfix visible-md-block"></div>
+					       <div class="clearfix visible-sm-block"></div>
+						   <div class="clearfix visible-md-block"></div>
 
 							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
-								<a href="images/MediaElementDisplay.png" class="thumbnail">
-									<img src="images/MediaElementDisplay.png">
+							Favorites / Notification Widget
+								<a href="images/Favorite-notificationWidget.png" class="thumbnail">
+									<img src="images/Favorite-notificationWidget.png">
 								</a>
 							</div>
 
 							<div class="clearfix visible-xs-block"></div>
 
 							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+							Media Element Display
+								<a href="images/MediaElementDisplay.png" class="thumbnail">
+									<img src="images/MediaElementDisplay.png">
+								</a>
+							</div>
+
+							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+							News Feed Aggregation
 								<a href="images/NewsFeedAggregation.png" class="thumbnail">
 									<img src="images/NewsFeedAggregation.png">
 								</a>
 							</div>
 
 							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+							News Feed Display Widget
 								<a href="images/NewsFeedDisplay.png" class="thumbnail">
 									<img src="images/NewsFeedDisplay.png" alt="Comments Display Algorithm">
 								</a>
 							</div>
 
+							<div class="clearfix visible-xs-block"></div>
+				            <div class="clearfix visible-sm-block"></div>
+				            <div class="clearfix visible-md-block"></div>
+				            <div class="clearfix visible-lg-block"></div>
+
 							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+							Twitter Feed Display Widget
 								<a href="images/TwitterFeedDisplay.png" class="thumbnail">
 									<img src="images/TwitterFeedDisplay.png" alt="Comments Display Algorithm">
 								</a>
 							</div>
 
-							<div class="clearfix visible-xs-block"></div>
-              <div class="clearfix visible-sm-block"></div>
-              <div class="clearfix visible-md-block"></div>
-              <div class="clearfix visible-lg-block"></div>
-
 							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+							Twitter Feed Aggregation
 								<a href="images/TwitterFeedAggregation.png" class="thumbnail">
 									<img src="images/TwitterFeedAggregation.png" alt="Comments Display Algorithm">
 								</a>
