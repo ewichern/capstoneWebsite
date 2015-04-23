@@ -84,54 +84,78 @@
 							 Need a lg clearfix every 6 -->
 
 							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
-							Content Display
+								Content Display
 								<a href="images/ContentDisplay.png" class="thumbnail">
 									<img src="images/ContentDisplay.png">
 								</a>
 							</div>
 
 							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
-							Content Editing / Submission
+								Content Editing / Submission
 								<a href="images/ContentEditing.png" class="thumbnail">
 									<img src="images/ContentEditing.png">
 								</a>
 							</div>
 
 							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
-							Submission Approval / Rejection
+								Superuser Content Editing / Submission
+								<a href="images/SUcontentEditing.png" class="thumbnail">
+									<img src="images/SUcontentEditing.png">
+								</a>
+							</div>
+							
+							<!-- XS Clearfix -->
+							<div class="clearfix visible-xs-block"></div>
+
+							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+								Submission Approval / Rejection
 								<a href="images/SubmissionApproval.png" class="thumbnail">
 									<img src="images/SubmissionApproval.png">
 								</a>
 							</div>
+							
+							<!-- SM Clearfix -->
+							<!-- MD Clearfix -->
+							<div class="clearfix visible-sm-block"></div>
+							<div class="clearfix visible-md-block"></div>
 
+							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+								Content Visibility / Deletion	
+								<a href="images/Hide-delete.png" class="thumbnail">
+									<img src="images/Hide-delete.png">
+								</a>
+							</div>
+							
+							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+								Create Page Template
+								<a href="images/CreateTemplate.png" class="thumbnail">
+									<img src="images/CreateTemplate.png">
+								</a>
+							</div>
+							
+							<!-- XS Clearfix -->
+							<!-- LG Clearfix -->
 							<div class="clearfix visible-xs-block"></div>
+							<div class="clearfix visible-lg-block"></div>
 
-			  <div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
-			  Create Page Template
-                <a href="images/CreateTemplate.png" class="thumbnail">
-                  <img src="images/CreateTemplate.png">
-                </a>
-              </div>
+							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+								Edit Page Template
+								<a href="images/EditTemplate.png" class="thumbnail">
+									<img src="images/EditTemplate.png">
+								</a>
+							</div>
 
-              <div class="clearfix visible-sm-block"></div>
-              <div class="clearfix visible-md-block"></div>
+							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+								Edit Site Theme
+				                <a href="images/EditTheme.png" class="thumbnail">
+									<img src="images/EditTheme.png">
+								</a>
+							</div>
 
-			  <div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
-			  Edit Page Template
-                <a href="images/EditTemplate.png" class="thumbnail">
-                  <img src="images/EditTemplate.png">
-                </a>
-              </div>
-
-			  <div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
-			  Edit Site Theme
-                <a href="images/EditTheme.png" class="thumbnail">
-                  <img src="images/EditTheme.png">
-                </a>
-              </div>
-
-              <div class="clearfix visible-xs-block"></div>
-              <div class="clearfix visible-lg-block"></div>
+							<!-- SM Clearfix -->
+							<!-- MD Clearfix -->
+							<div class="clearfix visible-sm-block"></div>
+							<div class="clearfix visible-md-block"></div>
 
 							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
 							Comments Display Widget
@@ -140,15 +164,15 @@
 								</a>
 							</div>
 
+							<!-- XS Clearfix -->
+							<div class="clearfix visible-xs-block"></div>
+
 							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
 							Comment Input Widget
 								<a href="images/CommentInputWidget.png" class="thumbnail">
 									<img src="images/CommentInputWidget.png">
 								</a>
 							</div>
-
-					       <div class="clearfix visible-sm-block"></div>
-						   <div class="clearfix visible-md-block"></div>
 
 							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
 							Favorites / Notification Widget
@@ -157,14 +181,21 @@
 								</a>
 							</div>
 
-							<div class="clearfix visible-xs-block"></div>
-
 							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
 							Media Element Display
 								<a href="images/MediaElementDisplay.png" class="thumbnail">
 									<img src="images/MediaElementDisplay.png">
 								</a>
 							</div>
+
+							<!-- XS Clearfix -->
+							<!-- SM Clearfix -->
+							<!-- MD Clearfix -->
+							<!-- LG Clearfix -->
+							<div class="clearfix visible-xs-block"></div>
+							<div class="clearfix visible-sm-block"></div>
+							<div class="clearfix visible-md-block"></div>
+							<div class="clearfix visible-lg-block"></div>
 
 							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
 							News Feed Aggregation
@@ -180,11 +211,6 @@
 								</a>
 							</div>
 
-							<div class="clearfix visible-xs-block"></div>
-				            <div class="clearfix visible-sm-block"></div>
-				            <div class="clearfix visible-md-block"></div>
-				            <div class="clearfix visible-lg-block"></div>
-
 							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
 							Twitter Feed Display Widget
 								<a href="images/TwitterFeedDisplay.png" class="thumbnail">
@@ -192,12 +218,20 @@
 								</a>
 							</div>
 
+							<!-- XS Clearfix -->
+							<div class="clearfix visible-xs-block"></div>
+
 							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
 							Twitter Feed Aggregation
 								<a href="images/TwitterFeedAggregation.png" class="thumbnail">
 									<img src="images/TwitterFeedAggregation.png" alt="Comments Display Algorithm">
 								</a>
 							</div>
+							
+							<!-- SM Clearfix -->
+							<!-- MD Clearfix -->
+							<div class="clearfix visible-sm-block"></div>
+							<div class="clearfix visible-md-block"></div>
 
 						</div>
 					</div>
