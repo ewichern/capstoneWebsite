@@ -227,6 +227,34 @@
 									<img src="images/TwitterFeedAggregation.png" alt="Comments Display Algorithm">
 								</a>
 							</div>
+
+							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+							Display and Edit User Profile
+								<a href="images/displayEditUserProfile.png" class="thumbnail">
+									<img src="images/displayEditUserProfile.png" alt="Comments Display Algorithm">
+								</a>
+							</div>
+
+							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+							News Feed Options
+								<a href="images/newFeedOptions.png" class="thumbnail">
+									<img src="images/newFeedOptions.png" alt="Comments Display Algorithm">
+								</a>
+							</div>
+
+							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+							Template Source Code Modification
+								<a href="images/templateSourceCodeMod.png" class="thumbnail">
+									<img src="images/templateSourceCodeMod.png" alt="Comments Display Algorithm">
+								</a>
+							</div>
+
+							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
+							Twitter Feed Options Display
+								<a href="images/twitterFeedOptions.png" class="thumbnail">
+									<img src="images/TtwitterFeedOptions.png" alt="Comments Display Algorithm">
+								</a>
+							</div>
 							
 							<!-- SM Clearfix -->
 							<!-- MD Clearfix -->
