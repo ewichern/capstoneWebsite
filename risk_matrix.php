@@ -25,60 +25,60 @@
 									</div>
 								</td>
 								<td width="90%">
-										<table class="table table-bordered">
-											<thead>
-												<tr>
-													<th width="15%"></th>
-													<th width="17%" style="text-align: center">1</th>
-													<th width="17%" style="text-align: center">2</th>
-													<th width="17%" style="text-align: center">3</th>
-													<th width="17%" style="text-align: center">4</th>
-													<th width="17%" style="text-align: center">5</th>
-												</tr>
-											</thead>
-											<tbody>
-												<tr>
-													<td align="center">5</td>
-													<td align="center" bgcolor="yellow"></td>
-													<td align="center" bgcolor="yellow">C1,T1</td>
-													<td align="center" bgcolor="orange"></td>
-													<td align="center" bgcolor="red"></td>
-													<td align="center" bgcolor="red"></td>
-												</tr>
-												<tr>
-													<td align="center">4</td>
-													<td align="center" bgcolor="yellow">T5</td>
-													<td align="center" bgcolor="yellow">C2,C3</td>
-													<td align="center" bgcolor="yellow"></td>
-													<td align="center" bgcolor="orange"></td>
-													<td align="center" bgcolor="red"></td>
-												</tr>
-												<tr>
-													<td align="center">3</td>
-													<td align="center" bgcolor="greenyellow">T6</td>
-													<td align="center" bgcolor="yellow"></td>
-													<td align="center" bgcolor="yellow">C4,T3,T4</td>
-													<td align="center" bgcolor="yellow"></td>
-													<td align="center" bgcolor="orange"></td>
-												</tr>
-												<tr>
-													<td align="center">2</td>
-													<td align="center" bgcolor="green"></td>
-													<td align="center" bgcolor="greenyellow"></td>
-													<td align="center" bgcolor="yellow"></td>
-													<td align="center" bgcolor="yellow"></td>
-													<td align="center" bgcolor="yellow">T2</td>
-												</tr>
-												<tr>
-													<td align="center">1</td>
-													<td align="center" bgcolor="green"></td>
-													<td align="center" bgcolor="green"></td>
-													<td align="center" bgcolor="greenyellow"></td>
-													<td align="center" bgcolor="yellow"></td>
-													<td align="center" bgcolor="yellow"></td>
-												</tr>
-											</tbody>
-										</table>
+									<table class="table table-bordered">
+										<thead>
+											<tr>
+												<th width="15%"></th>
+												<th width="17%" style="text-align: center">1</th>
+												<th width="17%" style="text-align: center">2</th>
+												<th width="17%" style="text-align: center">3</th>
+												<th width="17%" style="text-align: center">4</th>
+												<th width="17%" style="text-align: center">5</th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td align="center">5</td>
+												<td align="center" bgcolor="yellow"></td>
+												<td align="center" bgcolor="yellow">C1,T1</td>
+												<td align="center" bgcolor="orange"></td>
+												<td align="center" bgcolor="red"></td>
+												<td align="center" bgcolor="red"></td>
+											</tr>
+											<tr>
+												<td align="center">4</td>
+												<td align="center" bgcolor="yellow">T5</td>
+												<td align="center" bgcolor="yellow">C2,C3</td>
+												<td align="center" bgcolor="yellow"></td>
+												<td align="center" bgcolor="orange"></td>
+												<td align="center" bgcolor="red"></td>
+											</tr>
+											<tr>
+												<td align="center">3</td>
+												<td align="center" bgcolor="greenyellow">T6</td>
+												<td align="center" bgcolor="yellow"></td>
+												<td align="center" bgcolor="yellow">C4,T3,T4</td>
+												<td align="center" bgcolor="yellow"></td>
+												<td align="center" bgcolor="orange"></td>
+											</tr>
+											<tr>
+												<td align="center">2</td>
+												<td align="center" bgcolor="green"></td>
+												<td align="center" bgcolor="greenyellow"></td>
+												<td align="center" bgcolor="yellow"></td>
+												<td align="center" bgcolor="yellow"></td>
+												<td align="center" bgcolor="yellow">T2</td>
+											</tr>
+											<tr>
+												<td align="center">1</td>
+												<td align="center" bgcolor="green"></td>
+												<td align="center" bgcolor="green"></td>
+												<td align="center" bgcolor="greenyellow"></td>
+												<td align="center" bgcolor="yellow"></td>
+												<td align="center" bgcolor="yellow"></td>
+											</tr>
+										</tbody>
+									</table>
 								</td>
 							</tr>
 						</table>
@@ -193,13 +193,13 @@
 					</div>
 
 					<div class="panel-body">
-						<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+						<div class="panel-group" id="accordion2" role="tablist" aria-multiselectable="true">
 							<!-- <a href="" class="btn btn-link" role="button"></a> -->
 
 							<div class="panel panel-default">
 								<div class="panel-heading" role="tab" id="headingThree">
 									<h4 class="panel-title" align="left">
-										<a data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+										<a data-toggle="collapse" data-parent="#accordion2" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
 											<span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>
 											T1: Limitations of WordPress API
 										</a>
@@ -220,7 +220,7 @@
 							<div class="panel panel-default">
 								<div class="panel-heading" role="tab" id="headingFour">
 									<h4 class="panel-title" align="left">
-										<a data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+										<a data-toggle="collapse" data-parent="#accordion2" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
 											<span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>
 											T2: Lack of Expertise in WordPress, PHP, HTML, CSS, and Javascript
 										</a>
@@ -241,7 +241,7 @@
 							<div class="panel panel-default">
 								<div class="panel-heading" role="tab" id="headingFive">
 									<h4 class="panel-title" align="left">
-										<a data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+										<a data-toggle="collapse" data-parent="#accordion2" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
 											<span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>
 											T3: Incompatibility with Existing Plugins
 										</a>
@@ -262,7 +262,7 @@
 							<div class="panel panel-default">
 								<div class="panel-heading" role="tab" id="headingSix">
 									<h4 class="panel-title" align="left">
-										<a data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+										<a data-toggle="collapse" data-parent="#accordion2" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
 											<span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>
 											T4: Difficulty Integrating Interactive and Visualization Elements
 										</a>
@@ -283,7 +283,7 @@
 							<div class="panel panel-default">
 								<div class="panel-heading" role="tab" id="headingSeven">
 									<h4 class="panel-title" align="left">
-										<a data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+										<a data-toggle="collapse" data-parent="#accordion2" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
 											<span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>
 											T5: Security Issues with Additional Editing and Publishing Interfaces
 										</a>
@@ -304,7 +304,7 @@
 							<div class="panel panel-default">
 								<div class="panel-heading" role="tab" id="headingEight">
 									<h4 class="panel-title" align="left">
-										<a data-toggle="collapse" data-parent="#accordion" href="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+										<a data-toggle="collapse" data-parent="#accordion2" href="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
 											<span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>
 											T6: Performance Concerns with Additional Plugin Overhead
 										</a>
@@ -329,7 +329,7 @@
 			</div>
 		</div><!-- /.container -->
 
-				<?php include 'foot.php'; ?>
+		<?php include 'foot.php'; ?>
 		<?php require 'scripts.php'; ?>
 
 	</body>

@@ -126,7 +126,7 @@
 			</div>
 		</div><!-- /.container -->
 
-				<?php include 'foot.php'; ?>
+		<?php include 'foot.php'; ?>
 		<?php require 'scripts.php'; ?>
 
 	</body>
