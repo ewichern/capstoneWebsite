@@ -71,6 +71,7 @@
                     <div class="panel-body" align="left" id="databasePanelBody">
                         <img src="./images/db.png" class="img-responsive"/>
                         <img src="./images/ERD.png" class="img-responsive"/>
+                        <img src="./images/twitter_db.png" class="img-responsive"/>
                     </div>
                 </div>
 
