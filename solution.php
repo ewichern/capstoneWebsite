@@ -160,8 +160,9 @@
 								Functional Components Diagram
 							</h3>
 						</div>
-						<div class="panel-body" align="center">
-							<img src="./images/functionalcomponents.png" class="img-responsive"/>
+						<div class="panel-body" align="left">
+							<img src="./images/revisedFunctionalComponents.png" class="img-responsive"/>
+							<a href="./images/functionalcomponents.png" class="btn btn-link" role="button">Functional Components Diagram(previous version)</a>
 						</div>
 					</div>
 
