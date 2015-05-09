@@ -69,12 +69,12 @@
 
         <div class="panel panel-primary">
                     <div class="panel-heading" id="componentCategorizationHeading">
-                        <h3 class="panel-title text-left">CS 411W Lab 1 Outline - Product Description Document</h3>
+                        <h3 class="panel-title text-left">CS 411 Labs</h3>
                     </div>
                     <div class="panel-body" align="left" id="componentCategorization">
-                        <a href="https://docs.google.com/document/d/1g7relChgYhJuz6gGGONFtbNkvhb3T87669xRTckyniM/edit" class="btn btn-link" role="button">Lab 1 Outline - Google Doc </a>
+                        <a href="https://docs.google.com/document/d/1g7relChgYhJuz6gGGONFtbNkvhb3T87669xRTckyniM/edit" class="btn btn-link" role="button">Lab 1: Product Description Document(Outline) - Google Doc </a>
                         <br>
-                        <a href="./images/Lab1Outline.pdf" class="btn btn-link" role="button">Lab 1 Outline - PDF </a>
+                        <a href="./images/Lab1Outline.pdf" class="btn btn-link" role="button">Lab 1: Product Description Document(Outline) - PDF </a>
                     </div>
                 </div>
 
