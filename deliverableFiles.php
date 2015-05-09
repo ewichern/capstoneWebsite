@@ -9,7 +9,7 @@
 
         <div class="container">
             <div class="default-formatting">
-				
+
 				<div class="panel panel-primary">
                     <div class="panel-heading" id="designPresentationHeding">
                         <h3 class="panel-title text-left">Software Design Presentation</h3>
@@ -22,7 +22,7 @@
                         <a href="https://docs.google.com/presentation/d/1I14D5GCnhXkNMFKr-6SxXWXUKBBTwQYwsLIBRGCxy10/pub?start=false&loop=true&delayms=10000" class="btn btn-link" role="button">Design Presentation (Google Docs link - updates in realtime to changes)</a>
                     </div>
                 </div>
-				
+
                 <div class="panel panel-primary">
                     <div class="panel-heading" id="feasibilityHeading">
                         <h3 class="panel-title text-left">Feasibility Presentation</h3>
@@ -48,7 +48,7 @@
 						<a href="./images/PrioritizedUserStories.pdf" class="btn btn-link" role="button">User Stories (Prioritized based on stakeholder feedback)</a>
                     </div>
                 </div>
-				
+
 				<div class="panel panel-primary">
                     <div class="panel-heading" id="componentCategorizationHeading">
                         <h3 class="panel-title text-left">Prototype Component Categorization</h3>
@@ -64,6 +64,16 @@
                     </div>
                     <div class="panel-body" align="left" id="componentCategorization">
                         <a href="./images/rwpVSproto2.pdf" class="btn btn-link" role="button">Real World Product vs Prototype Table</a>
+                    </div>
+                </div>
+
+        <div class="panel panel-primary">
+                    <div class="panel-heading" id="componentCategorizationHeading">
+                        <h3 class="panel-title text-left">CS 411W Lab 1 Outline - Product Description Document</h3>
+                    </div>
+                    <div class="panel-body" align="left" id="componentCategorization">
+                        <a href="https://docs.google.com/document/d/1g7relChgYhJuz6gGGONFtbNkvhb3T87669xRTckyniM/edit" class="btn btn-link" role="button">Lab 1 Outline - Google Doc </a>
+                        <a href="./images/Lab1Outline.pdf" class="btn btn-link" role="button">Lab 1 Outline - PDF </a>
                     </div>
                 </div>
 
@@ -164,7 +174,7 @@
 							<div class="clearfix visible-md-block"></div>
 
 							<div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
-								Content Visibility / Deletion	
+								Content Visibility / Deletion
 								<a href="images/Hide-delete.png" class="thumbnail">
 									<img src="images/Hide-delete.png">
 								</a>
