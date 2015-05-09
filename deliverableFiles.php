@@ -63,7 +63,7 @@
                         <h3 class="panel-title text-left">Real World Product vs Prototype</h3>
                     </div>
                     <div class="panel-body" align="left" id="componentCategorization">
-                        <a href="./images/rwpVSproto.pdf" class="btn btn-link" role="button">Real World Product vs Prototype Table</a>
+                        <a href="./images/rwpVSproto2.pdf" class="btn btn-link" role="button">Real World Product vs Prototype Table</a>
                     </div>
                 </div>
 
