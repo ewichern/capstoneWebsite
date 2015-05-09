@@ -73,6 +73,7 @@
                     </div>
                     <div class="panel-body" align="left" id="componentCategorization">
                         <a href="https://docs.google.com/document/d/1g7relChgYhJuz6gGGONFtbNkvhb3T87669xRTckyniM/edit" class="btn btn-link" role="button">Lab 1 Outline - Google Doc </a>
+                        <br>
                         <a href="./images/Lab1Outline.pdf" class="btn btn-link" role="button">Lab 1 Outline - PDF </a>
                     </div>
                 </div>
