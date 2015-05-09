@@ -155,14 +155,27 @@
 													</div>
 					-->
 					<div class="panel panel-primary">
-						<div class="panel-heading">
-							<h3 class="panel-title">
+						<div class="panel-heading" id="functionalComponentsHeading">
+							<h3 class="panel-title text-left">
 								Functional Components Diagram
 							</h3>
 						</div>
-						<div class="panel-body" align="left">
+						<div class="panel-body" align="left" id="functionalComponentsBody">
 							<img src="./images/revisedFunctionalComponents.png" class="img-responsive"/>
 							<a href="./images/functionalcomponents.png" class="btn btn-link" role="button">Functional Components Diagram(previous version)</a>
+						</div>
+					</div>
+					
+					<div class="panel panel-primary">
+						<div class="panel-heading" id="prototypeComponentHeading">
+							<h3 class="panel-title text-left">
+								Prototype Functional Component Diagram
+							</h3>
+						</div>
+						<div class="panel-body" align="left" id="prototypeComponentBody">
+							<a href="./images/prototypefunctionalcomponents.png">
+								<img src="./images/prototypefunctionalcomponents.png" class="img-responsive"/>
+							</a>
 						</div>
 					</div>
 

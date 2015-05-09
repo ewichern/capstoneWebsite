@@ -17,6 +17,8 @@
                     <div class="panel-body" align="left" id="designPresentationBody">
                         <a href="./images/SoftwareDesignPresentationOriginal.pdf" class="btn btn-link" role="button">Software Design Presentation (Original)</a>
                         <br>
+                        <a href="./images/SoftwareDesignPresentation_Updated.pdf" class="btn btn-link" role="button">Software Design Presentation (Updated)</a>
+                        <br>
                         <a href="https://docs.google.com/presentation/d/1I14D5GCnhXkNMFKr-6SxXWXUKBBTwQYwsLIBRGCxy10/pub?start=false&loop=true&delayms=10000" class="btn btn-link" role="button">Design Presentation (Google Docs link - updates in realtime to changes)</a>
                     </div>
                 </div>
@@ -42,6 +44,26 @@
                         <a href="./images/UserStories.pdf" class="btn btn-link" role="button">User Stories</a>
                         <br>
                         <a href="./images/410GreenUserStories.pdf" class="btn btn-link" role="button">User Stories (Revised)</a>
+						<br>
+						<a href="./images/PrioritizedUserStories.pdf" class="btn btn-link" role="button">User Stories (Prioritized based on stakeholder feedback)</a>
+                    </div>
+                </div>
+				
+				<div class="panel panel-primary">
+                    <div class="panel-heading" id="componentCategorizationHeading">
+                        <h3 class="panel-title text-left">Prototype Component Categorization</h3>
+                    </div>
+                    <div class="panel-body" align="left" id="componentCategorization">
+                        <a href="./images/PrototypeComponentCategorization.pdf" class="btn btn-link" role="button">Prototype Components Categorized based on Stakeholder feedback and priorities.</a>
+                    </div>
+                </div>
+
+                <div class="panel panel-primary">
+                    <div class="panel-heading" id="prototypeComponentHeading">
+                        <h3 class="panel-title text-left">Prototype Functional Component Diagram</h3>
+                    </div>
+                    <div class="panel-body" align="left" id="prototypeComponentBody">
+						<a href="./images/prototypefunctionalcomponents.png"><img src="./images/prototypefunctionalcomponents.png" class="img-responsive"/></a>
                     </div>
                 </div>
 
