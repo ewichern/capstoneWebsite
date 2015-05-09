@@ -58,6 +58,15 @@
                     </div>
                 </div>
 
+				<div class="panel panel-primary">
+                    <div class="panel-heading" id="componentCategorizationHeading">
+                        <h3 class="panel-title text-left">Real World Product vs Prototype</h3>
+                    </div>
+                    <div class="panel-body" align="left" id="componentCategorization">
+                        <a href="./images/rwpVSproto.pdf" class="btn btn-link" role="button">Real World Product vs Prototype Table</a>
+                    </div>
+                </div>
+
                 <div class="panel panel-primary">
                     <div class="panel-heading" id="prototypeComponentHeading">
                         <h3 class="panel-title text-left">Prototype Functional Component Diagram</h3>
