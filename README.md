@@ -9,6 +9,6 @@ Relatively simple website put together using Bootstrap and jQuery, using a few l
 
 My contributions:
 
-In addition to taking a lead role in executing the comprehensive research, analysis, and design tasks that were required from our team, I worked extensively on code for the website throughout the project. Set up the page templates set up in a way that was functional and aesthetically "tolerable" -- it certainly won't win any design awards, but it communicates information fine. Managed our stylesheet and implemented layout for most of the pages, either directly or through editing/revision.
+In addition to taking a lead role in executing the comprehensive research, analysis, and design tasks that were required from our team, I worked extensively on code for the website throughout the project. Set up the page templates in a way that was functional and aesthetically "tolerable" -- it certainly won't win any design awards, but it communicates information fine. Managed our stylesheet and implemented layout for many of the pages, either directly or through editing/revision.
 
 There is very little happening on the back-end for the project as it's essentially a simple collection of static documents.
